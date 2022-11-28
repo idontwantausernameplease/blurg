@@ -8,7 +8,7 @@ I am a researcher of spatial & transport economics. In this collaborative series
 ### by [Victor Mayland Nielsen](content/victor-mayland-nielsen):
 
 
-*The road to first best cities
+The road to first best cities
 
 - Part 0: [Introduction](content/introduction)
 - Part 1: [Urban sprawl](content/urban-sprawl)
