@@ -48,7 +48,7 @@ html {
 
 .container {
   margin: 2rem auto;
-  padding: 1rem 3rem 3rem;
+  padding: 1rem 3rem 2rem;
   border: 1px solid #526a80;
   border-radius: 5px;
   position: relative;
@@ -91,6 +91,7 @@ img.ad {
 .mt-1 {
   margin-top: 1rem;
 }
+
 .is-centered {
   text-align: center;
 }
@@ -115,10 +116,10 @@ button.flex {
 
 #menu_content {
   overflow-x: auto;
-
+  margin-top: -12px;
 }
 
-#menu_content a {
+#menu_content div, #menu_content a {
   display: inline-flex;
 }
 
