@@ -5,7 +5,7 @@ First best refers to the theoretically best possible policy option to solve a ma
 Our cities are a complicated mess of failed policies and market failures that have not been solved efficiently. 
 I am a researcher of spatial & transport economics. In this collaborative series, I develop a systematic guide on how to solve the biggest challenges cities face.
 
-### by [Victor Mayland Nielsen](content/victor-mayland-nielsen):
+### by [Victor Mayland Nielsen](/?p=victor-mayland-nielsen):
 
 
 The road to first best cities:
