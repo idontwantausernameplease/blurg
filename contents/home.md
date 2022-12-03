@@ -10,10 +10,10 @@ I am a researcher of spatial & transport economics. In this collaborative series
 
 The road to first best cities:
 
-- Part 0: [Introduction](content/introduction)
-- Part 1: [Urban sprawl](content/urban-sprawl)
-- Part 2: [The housing crisis](content/the-housing-crisis)
-- Part 3: [Excessive car use](content/excessive-car-use)
+- Part 0: [Introduction](/?p=introduction)
+- Part 1: [Urban sprawl](/?p=urban-sprawl)
+- Part 2: [The housing crisis](/?p=the-housing-crisis)
+- Part 3: [Excessive car use](/?p=excessive-car-use)
 
 
 
