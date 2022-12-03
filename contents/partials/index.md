@@ -1,63 +1,16 @@
-# Blurg
+# Why first best?
 
-A website with editable content using markdown files stored on Github. Pages and partials are stored in the browser session storage for speed and to reduce the amount of calls to the Github API.
+First best refers to the theoretically best possible policy option to solve a market failure. One that involves no distortion and the highest welfare gain. 
 
-* * *
+Our cities are a complicated mess of failed policies and market failures that have not been solved efficiently. 
+I am a researcher of spatial & transport economics. In this collaborative series, I develop a systematic guide on how to solve the biggest challenges cities face.
 
-### Install Instructions
-
-1.  Fork the Blurg repository from Github: <https://github.com/impshum/blurg>
-2.  Change the description and website of your forked repo to your website title and url (more info below).
-3.  Edit the config file with your details (`/config.php`).
-4.  Download the source code of your fork and upload to your server.
-5.  Edit the partials in `/contents/partials/header.md` and `/contents/partials/index.md`.
-6.  Edit/create the pages `/contents/`.
-7.  Start pushing to your repository.
-
-* * *
-
-### Config File
-
--   Config file is located in `/config.php`.
--   It's a PHP array so be careful when editing. Please follow the example below using exactly the same syntax.
+### by [Victor Mayland Nielsen](/?p=victor-mayland-nielsen):
 
 
-    "url" => "http://localhost:8888",
-    "title" => "Blurg",
-    "description" => "Blurg",
-    "theme" => "auto",
-    "github_username" => "impshum",
-    "maintenance_mode" => false,
-    "preview_password" => "123"
+The road to first best cities:
 
-* * *
-
-### Markdown & Image Files
-
--   These files are used to edit the pages, partials and to manage the images.
--   Put all images to be used in pages in the `/contents/images/` directory.
-
-
-    ├── config.php
-    ├── contents
-    │   ├── one.md
-    │   ├── four.md
-    │   └── two.md
-    │   ├── three.md
-    │   ├── images
-    │   │   ├── ad.jpg
-    │   │   ├── favicon.png
-    │   │   ├── logo.png
-    │   │   ├── social.jpg
-    │   │   └── thing.jpg
-    │   ├── partials
-    │   │   ├── blurgs.md
-    │   │   ├── header.md
-    │   │   ├── index.md
-    │   │   └── menu.md
-
-* * *
-
-### Why Change The Description & Url?
-
-If you check out <https://blurg.recycledrobot.co.uk/?p=blurgs> you can find other users websites made with Blurg. Work in progress...
+- Part 0: [Introduction](/?p=introduction)
+- Part 1: [Urban sprawl](/?p=urban-sprawl)
+- Part 2: [The housing crisis](/?p=the-housing-crisis)
+- Part 3: [Excessive car use](/?p=excessive-car-use)
