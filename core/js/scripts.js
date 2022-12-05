@@ -3,6 +3,7 @@ const logo = document.getElementById('logo');
 const head_content = document.getElementById('head_content');
 const menu_content = document.getElementById('menu_content');
 const page_content = document.getElementById('page_content');
+const coffee_content = document.getElementById('coffee_content');
 const clear_session_data = document.getElementById('clear_session_data');
 const edit_button = document.getElementById('edit_button');
 
@@ -11,26 +12,22 @@ var converter = new showdown.Converter({
   tables: true
 });
 
-// Extension
-showdown.extension('myext', function() {
-  return [
-    {
-      type: 'listener',
-      listeners: {
-        'hashHTMLBlocks.after': function (event, text, converter, options, globals) {
-        	text = text.replace(/^ {0,3}<[a-z]+\b[^>]*>$/gmi, function (wm) {
-            return '\n\n¨K' + (globals.gHtmlBlocks.push(wm) - 1) + 'K\n\n';
-          });
-          return text;
-				}
+showdown.extension('remove_p', function() {
+  return [{
+    type: 'listener',
+    listeners: {
+      'hashHTMLBlocks.after': function(event, text, converter, options, globals) {
+        text = text.replace(/^ {0,3}<[a-z]+\b[^>]*>$/gmi, function(wm) {
+          return '\n\n¨K' + (globals.gHtmlBlocks.push(wm) - 1) + 'K\n\n';
+        });
+        return text;
       }
     }
-  ];
+  }];
 });
 
-// Test Code
 var converter_p = new showdown.Converter({
-  extensions: ['myext']
+  extensions: ['remove_p']
 });
 
 converter.setFlavor('github');
@@ -114,7 +111,7 @@ if (p != 'index' && p != 'blurg') {
 
 if (!sessionStorage.getItem('hits')) {
   sessionStorage.setItem('hits', 1);
-  head_content.parentNode.parentNode.classList.add('animate__animated', 'animate__fadeInDown');
+  header.classList.add('animate__animated', 'animate__fadeInDown', 'animate__faster');
   logo.classList.add('animate__animated', 'animate__fadeIn', 'animate__delay-05s');
 } else {
   sessionStorage.setItem('hits', parseInt(sessionStorage.getItem('hits')) + 1);
@@ -130,6 +127,12 @@ const add_menu_content = (res) => {
   let node = document.createElement('div');
   node.innerHTML = converter_p.makeHtml(res);
   menu_content.appendChild(node);
+}
+
+const add_coffee_content = (res) => {
+  let node = document.createElement('div');
+  node.innerHTML = converter.makeHtml(res);
+  coffee_content.appendChild(node);
 }
 
 const add_page_content = (res) => {
@@ -159,6 +162,17 @@ if (sessionStorage.getItem('menu_content')) {
     .then((res) => {
       add_menu_content(res);
       sessionStorage.setItem('menu_content', JSON.stringify(res));
+    });
+}
+
+if (sessionStorage.getItem('coffee_content')) {
+  var res = JSON.parse(sessionStorage.getItem('coffee_content'))
+  add_coffee_content(res);
+} else {
+  get_data(`https://raw.githubusercontent.com/${github_username}/blurg/main/contents/partials/coffee.md`, false)
+    .then((res) => {
+      add_coffee_content(res);
+      sessionStorage.setItem('coffee_content', JSON.stringify(res));
     });
 }
 

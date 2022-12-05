@@ -1,12 +1,6 @@
 <?php
 return [
-  "url" => "https://localhost:8888",
-  "title" => "Blurg",
-  "description" => "Blurg",
-  "theme" => "light",
-  "github_username" => "impshum",
-  "maintenance_mode" => false,
-  "preview_password" => "123",
-  "show_house" => false,
-  "show_ads" => false
+  "github_username" => "idontwantausernameplease",
+  "preview_password" => "slappa"
 ];
+?>

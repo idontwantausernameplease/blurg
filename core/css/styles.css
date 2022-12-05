@@ -6,6 +6,34 @@ html {
   font-family: 'Nunito', sans-serif;
 }
 
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-left {
+  width: 25%;
+}
+
+.flex-right {
+  width: 75%;
+}
+
+@media only screen and (max-width : 768px) {
+  .flex-left {
+    width: 0;
+  }
+
+  .flex-right {
+    width: 100%;
+  }
+}
+
+hr {
+  margin-top: 1rem;
+  margin-bottom: .5rem;
+}
+
 .animate__delay-05s {
   -webkit-animation-delay: .3s;
   animation-delay: .3s;
@@ -47,31 +75,22 @@ html {
 }
 
 .container {
+  position: relative;
   margin: 2rem auto;
   padding: 1rem 3rem 2rem;
   border: 1px solid #526a80;
   border-radius: 5px;
-  position: relative;
 }
 
 .title h2 {
   font-size: 1.2rem;
-  margin-top: -.75rem;
-}
-
-.title a {
-  font-size: 1.2rem;
-  margin-right: 7px;
-  transition: color: .3s;
-  color: inherit;
+  margin-top: -.5rem;
 }
 
 img.logo {
   float: left;
-  width: 100px;
-  height: 100px;
-  padding-top: 15px;
-  padding-right: 50px;
+  width: 70%;
+  padding-top: 30px;
 }
 
 @media only screen and (max-width : 768px) {
@@ -81,8 +100,8 @@ img.logo {
 }
 
 img.ad {
-  margin-top: 2.4rem;
   width: 100%;
+  margin-top: 1.4rem;
   padding: 2px;
   border: 1px solid #526a80;
   border-radius: 5px;
@@ -96,6 +115,13 @@ img.ad {
   text-align: center;
 }
 
+.title a {
+  font-size: 1.2rem;
+  margin-right: .35rem;
+  transition: color: .3s;
+  color: inherit;
+}
+
 .title a:hover {
   transition: color: .3s;
   text-decoration: none;
@@ -105,8 +131,8 @@ img.ad {
 img.home {
   position: relative;
   top: 1px;
-  height: 15px;
   width: 15px;
+  height: 15px;
   margin-right: 2px;
 }
 
@@ -119,16 +145,17 @@ button.flex {
   margin-top: -12px;
 }
 
-#menu_content div, #menu_content a {
+#menu_content div,
+#menu_content a {
   display: inline-flex;
 }
 
 #edit_button {
+  font-size: .7rem;
   position: absolute;
   top: 6px;
-  right: 0px;
+  right: 0;
   padding: .5rem;
-  font-size: .7rem;
 }
 
 #main {
@@ -137,6 +164,7 @@ button.flex {
 
 #page_content img {
   width: 100%;
+  min-height: 100px;
   padding: 2px;
   border: 1px solid #526a80;
   border-radius: 5px;
@@ -148,15 +176,15 @@ button.flex {
   right: 3px;
   width: 15px;
   height: 15px;
-  background: transparent;
   transition: background .3s;
   border-radius: 3px;
+  background: transparent;
 }
 
 #clear_session_data:hover {
-  background: rgba(155, 155, 155, 0.2);
-  transition: background .3s;
   cursor: pointer;
+  transition: background .3s;
+  background: rgba(155, 155, 155, .2);
 }
 
 #show_blurgs {
@@ -165,15 +193,25 @@ button.flex {
   left: 3px;
   width: 15px;
   height: 15px;
-  background: transparent;
   transition: background .3s;
   border-radius: 3px;
+  background: transparent;
 }
 
 #show_blurgs:hover {
-  background: rgba(155, 155, 155, 0.2);
-  transition: background .3s;
   cursor: pointer;
+  transition: background .3s;
+  background: rgba(155, 155, 155, .2);
+}
+
+.coffee {
+  display: block;
+  width: 180px;
+  margin: 2rem auto 0rem;
+}
+
+.coffee img {
+  border-radius: 3px;
 }
 
 .footer {
