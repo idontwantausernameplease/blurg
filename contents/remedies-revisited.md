@@ -6,8 +6,13 @@ by [Victor Mayland Nielsen](/?p=victor-mayland-nielsen), 2022
 **Part II - The remedies revisited 👈** (You are here)  
 [Part III  - ]()
 
+## Table of contents
+- [The root causes](#excessive-car-use)
+
 ## The root causes
 Use Puga & Duranton (2015) and Brueckner (2011)
+
+<span id="excessive-car-use"></span>
 ### Excessive car use
 Glaeser & Kahn (2004)
 My own paper (2022)
