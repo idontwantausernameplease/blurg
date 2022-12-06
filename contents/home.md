@@ -8,46 +8,18 @@ I am a researcher of spatial & transport economics. In this collaborative series
 ### by [Victor Mayland Nielsen](/?p=victor-mayland-nielsen):
 
 
-The road to first best cities:
+The challenge of urban sprawl:
+- Part I: [The problem and the remedy](/?p=urban-sprawl)
+- Part II: [The remedy revisited](/?p=remedy-revisited)
+- Part III: [](-)
 
-- Part 0: [Introduction](/?p=introduction)
-- Part 1: [Urban sprawl](/?p=urban-sprawl)
-- Part 2: [The housing crisis](/?p=the-housing-crisis)
-- Part 3: [Excessive car use](/?p=excessive-car-use)
+The challenge of the housing crisis:
+- Part I: [The problem and the remedy](/?p=the-housing-crisis)
+- Part II: [The remedy revisited](-)
+- Part III: [](-)
 
 
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown
-  printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of
-  Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-![](/contents/images/thing.jpg)
-
-* * *
-
-### Welcome to Markdown
-
-This turns your input into HTML for the website.
-
-* * *
-
-# h1
-
-## h2
-
-### h3
-
-#### h4
-
-##### h5
-
-* * *
-
-You can do **strong** and _italic_ text.
-
-And tables...
-
-| one | two | three |
-| --- | --- | ----- |
-| one | two | three |
-| one | two | three |
+The challenge of excessive car use:
+- Part I: [The problem and the remedy](/?p=excessive-car-use)
+- Part II: [The remedy revisited](-)
+- Part III: [](-)
