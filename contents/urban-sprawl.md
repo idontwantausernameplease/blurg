@@ -1,41 +1,43 @@
 # Urban sprawl
 Outwards spatial growth of cities is a natural occurrence happening from population increases. Still, sometimes this expansion is exaggerated due to market failures or government failures and then we get urban sprawl. In this article, I explain when exactly spatial growth is excessive and I identify, which problems do and don't cause this excess.
 
-## What is urban sprawl?
-When a city grows, it either expands upwards or outwards. If a city grew its population, but neither expanded outwards nor upwards, its citizens would have drastically and increasingly decreasing life quality through insufficient space. I will refer to outward expansion as spatial growth.
-
-When it comes to urban sprawl, I prefer using Brueckner's (2000) definition, which is "excessive spatial growth" with emphasis on excessive. This definition implies that:
+## The difference between urban sprawl and spatial growth
+When cities grow, they do so both outwards and upwards. There is a slight trade-off between the two: Limits to outwards expansion creates more pressure for upwards expansion and vice versa. Both urban sprawl and spatial growth refers to outwards expansion. When it comes to urban sprawl, I prefer using Brueckner's (2000) definition, which is "*excessive* spatial growth" with emphasis on *excessive*. This definition implies that:
 - Urban sprawl is undesirable
 - Spatial growth/outwards expansion is not necessarily undesirable
 
-But when is spatial growth considered urban sprawl? Many circumstances affect the growth of a city and whether this growth happens upwards or outwards. Some of these circumstances are problematic and others are neutral or signs of a growing economy. A key difference in solving the issue of urban sprawl is understanding which of these circumstances are problematic, so first let me explain how I like to determine this.
+This distinction is important, because spatial growth is a natural part of human progress. It happens for instance when:
+- Populations increase
+- Incomes increase
 
-## The economic problem framework
-In microeconomics, we recognize that market failures and government failures create situations where society is worse off. The existence of these is often the root of resulting consequences, which are often treated as new problems to create solutions for. 
+When populations increase, demand for housing increases, and since it is not efficient to accomodate these people solely through upwards expansion, agricultural land gets outbidded for urban development due to the outwards pressure. Increasing income increases demand for more space and has similar effects. Spatial growth from increase in population or income is by Brueckner **not** enough to classify the expansion as urban sprawl.
 
-For this reason, we believe that resolving the root cause of the disease (the market failure) rather than treating the symptoms (consequences of the market failure) leads to a more efficient society. The reason for this is that treatments tend to have side effects (government failures), which may need new treatments. These costs can add up.
+PS. If you worry that this eventually will be the end of the world, according to Hans Rosling, [population growth will eventually reach zero](https://www.ted.com/talks/hans_rosling_global_population_growth_box_by_box?language=en) and economically, there will always be an equilibrium balance between agricultural land and urban land. When it comes to natural space, there is a field of environmental economists and natural resource economists who have a lot of great ideas for that, that I will touch a bit upon later. 
 
-Market failures naturally occur from new technologies, natural laws, or from rational human behavior. We cannot expect people to automatically change their behavior, we don't want to stop technological development and we can't change the laws of nature, but economists have developed tools that deal with market failures. Government failures are when government decisions lead to inefficient outcomes and sometimes are a result of an attempt to solve a market failure.
+Some factors drive urban growth into either upward or outward:
+- Outward: Improvements in transport technology
+- Upward: Improvements in construction technology
+- Outward: Increased preferences for proximity to nature and more space 
+- Upward: Increased preferences for proximity to shops, museums and other urban amenities
 
-In this framework, urban sprawl is not a problem, but a consequence coming from market failures and government failures that areunique in the way that it tends to make some of the market failures worse.
+Spatial growth from improvements in transport technology or increased preferences for proximity to nature or more space is by Bruckner **not** enough to classify expansion as urban sprawl. 
 
-## Positive causes of spatial growth and spatial confinement
-Since not all spatial growth undesirable, I thought I should list some reasons for spatial growth that are fine: 
-- Population increasing (we can't all fit in the same building)
-- Incomes increasing (we want more when we can afford more)
-- Transportation becoming relatively faster/cheaper (the ability to travel farther makes people willing to live further from jobs)
-- Change in people's preferences (it may become trendy to have a garden which is more costly in the city)
+So when is spatial growth considered urban sprawl? 
+The part of spatial growth that can be considered urban sprawl comes from the economic problems that lead to excessive outwards expansion. I explain the importance of how we define the problem in the next section. 
 
-I describe these causes as positive because they either have no negative economic consequences themselves (quite the contrary), or they derive from a part of human nature that the field of economics does not criticize such as preferences or reproduction.
+## Solving an economic problem can be like curing a disease
+Let's say you are born with a disease with certain symptoms. It is not deadly, but it keeps you from living your full potential. If you are lucky, there is a cure, which will end the disease without side effects. Alternatively, you can treat the symptoms using a treatment that may have side effects and might not completely resolve all the symptoms. 
+Cures might sometimes involve a bigger investment, but will be more beneficial in the long run through creating less side effects. If you have gotten used to certain treatments, your body might also need time to adapt to the cure. 
 
-Some positive reasons that push cities in the direction of less spatial growth and perhaps even more upwards growth also exist.
+Similarly, market failures inately exist everywhere in the world, they do not shut down all economies, but they keep them from reaching their potential. Some market failures have first-best policies, which solve the market failure without unintended unpredictable consequences, and some have second-best policies, which produce unintended unpredictable consequences that may need new policies and may not fully solve the market failure.
+First-best policies are sometimes more costly, but in the long run they will be more beneficial because they create less consequences to develop policy for. As you develop more policies to deal with all these consequences, it becomes more difficult to switch to a better policy as society adapts to the other policies. 
 
-- Improvements in building technology and reductions in engineering costs (fewer costs associated with building tall buildings results more upwards growth)
-- Change in people's preference for how much they are willing to pay for urban living (it may be trendy to live the cosmopolitan life, which creates a shift from suburban to urban living)
-- Urban amenities (the more a city has to offer within a certain time distance, the more people get attracted to it)
+However, as society grows, first-best policies become technologically more feasible. This analogy has two main implications: Firstly, it calls for a focus shift toward defining problems based on the root cause rather than the consequence. Secondly, it calls for a focus shift toward getting better at using first-best policy when possible.
 
-## Reasons for urban sprawl caused by market or government failures and common "treatments"
-The root causes leading to urban sprawl are:
+Getting back to urban sprawl, by Brueckner (2000), urban sprawl is a *consequence* of a list of market and government failures. Defining urban sprawl as the problem is like choosing to focus on the symptoms rather than the disease. Doing so, also creates a confusing landscape in terms of figuring out when urban sprawl is solved. 
+
+## Root causes of urban sprawl
+The market and government failures leading to urban sprawl are:
 - Excessive car use
 - Zoning and land-use regulations
 - Height restrictions https://academic.oup.com/book/2269/chapter-abstract/142378551?redirectedFrom=fulltext
@@ -47,13 +49,16 @@ The root causes leading to urban sprawl are:
 - Land value speculations
 - Assigning no value to open space or nature
 
+Clicking on any of these will lead to a description of the problem and their solution. 
+
 Some other policies indirectly limit spatial growth:
 - Farming subsidies
 - Nature protection
 
-They don't do so without consequences and are not nearly enough to counteract the problems of urban sprawl, so they cannot be seen as solutions.
+They don't do so without consequences (link to housing crisis article) and are not nearly enough to counteract the problems of urban sprawl, so they cannot be seen as solutions.
 
-Insufficient remidies:
+## Insufficient remidies:
+Commonly advocated as a solution to urban sprawl:
 - Urban growth boundaries / green belts
 
 Urban growth boundaries are a tool specifically used to limit spatial growth. The problem with urban growth boundaries is that there is no real way of determining where the boundaries optimally should be. Even if there was a way, those optimal boundaries would change over time, because a long list of dynamic parameters affects where the boundaries should be (Brueckner, 2000). This is another reason to solve the root causes; they tend to be much easier to calculate an optimal solution for. https://www.sciencedirect.com/science/article/pii/S0264837721006256?casa_token=20oYyUq-KBEAAAAA:mLmGGlUMuyL7TXt-ZejT1FG2cMTfGDf316UuHSHKZ8YQluJCRU1A3qhPt_Ip3I51a5sMXVtdYA
@@ -75,9 +80,9 @@ It is also often argued that we have to be careful not to take too much farmland
 
 I have argued that urban sprawl is not only a result of artificially high transport demand (via low transport prices), but it also exacerbates the artificially high transport demand (via creating living spaces that encourage car use). The mechanism is that transport prices influence how many people use a car and how much they use them. This in turn makes people demand more car infrastructure, less infrastructure for other modes, and more low-density (sparse) housing. If the prices then are to increase, the infrastructure and the low-density developments will still exist and may never change or take decades to change. Urban sprawl thus makes transport problems very long-run problems, and the sooner it can be dealt with, the less it will burden us over time.
 
-Regardless of the validity of these extra problems of urban sprawl, they do not pose a reason to limit spatial growth, but rather increase the urgency of solving the root causes. The root causes (the market and government failures) themselves create inefficiencies apart from just contributing to urban sprawl.
+Regardless of the validity of these extra problems of urban sprawl, they do not pose a reason to limit spatial growth, but rather increase the urgency of solving the root causes. The root causes themselves create inefficiencies apart from just contributing to urban sprawl.
 
 ## Conclusions
-Urban sprawl itself is not a problem, it's a consequence of a set of market and government failures that either produce the problem or try to combat it inefficiently. The most efficient way to solve it would be to look to the root of the problem by tackling the market failures and the policies that cause them.
+Urban sprawl itself is not a problem, it's a consequence of a set of market and government failures that either produce the problem or try to combat it inefficiently. The most efficient way to solve it would be to look to the root of the problems by tackling the market failures and the policies that cause them.
 
 I argue that the extra problems of urban sprawl pose an urgency to solve the root causes of urban sprawl rather than creating reasons to limit urban sprawl through new policies.
