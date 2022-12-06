@@ -45,6 +45,7 @@ The root causes leading to urban sprawl are:
 - Open space amenities from farmland
 - Too little emphasis on land value taxes as a means of government revenue as opposed to other taxes
 - Land value speculations
+- Assigning no value to open space or nature
 
 Some other policies indirectly limit spatial growth:
 - Farming subsidies
