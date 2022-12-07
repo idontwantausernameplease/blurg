@@ -2,7 +2,7 @@
 
 by [Victor Mayland Nielsen](/?p=victor-mayland-nielsen), 2022
 
-[Part I  - The problem and the remedy](/?p=urban-sprawl)  
+[Part I  - The problem and the remedy](/?p=urban-sprawl-1)  
 **Part II - The remedies revisited 👈** (You are here)  
 [Part III  - ]()
 
