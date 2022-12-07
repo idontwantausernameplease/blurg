@@ -40,7 +40,8 @@ Read more about removing the excessive from car use [here](/?p=excessive-driving
   <summary>Empirical sauce</summary>
 
 - Effect of car use on outwards expansion
-  - a
+  - Glaeser & Kahn (2004)
+  - Ostermeijer et al. (2022)
 - Effect of outwards expansion on car use
   - b
 
