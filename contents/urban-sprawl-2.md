@@ -28,7 +28,7 @@ Car use has always had a dual relationship with outwards expansion of cities; as
 Read more about removing the "excessive" from "excessive car use" [here](/?p=excessive-driving-1).
 
 <details>
-  <summary>- Theoretical sauce</summary>
+  <summary>Theoretical sauce</summary>
 
 - Effect of car use on outwards expansion
   - a
