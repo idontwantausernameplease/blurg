@@ -52,6 +52,7 @@ Read more about removing the "excessive" from "excessive car use" [here](/?p=exc
   - b
 
 </details>
+
 ### Land speculation
 Land speculation is a financial activity that involves purchasing land or real estate with the hope that it will increase in value. As long as land is scarce and populations are rising, land value is expected to increase higher than inflation, which makes it a bubble very unlikely to burst. This makes land a very attractive investment increasing the demand for investing in it.
 
@@ -85,6 +86,7 @@ A land value tax would stop land speculation. The closer the land value tax is t
   - 
 
 </details>
+
 ### Zoning and land use regulations
 Local and national governments have many rules on what can be built where and how. These include:
 - The use of the land (residential, commercial...)
