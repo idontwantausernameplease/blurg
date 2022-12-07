@@ -25,7 +25,7 @@ Excessive car use is a consequence of a [list of market and government failures]
 
 Car use has always had a dual relationship with outwards expansion of cities; as people can drive more (due to lower transport costs and higher income), they can live further away, and as people live further away, other modes of transport becomes less viable. If this car use is excessive, it will add more demand for outwards expansion that can be considered urban sprawl. The car use is excessive as long as infrastructure for car use is provided without users paying for it and as long as there are uninternalised externalities of driving. 
 
-Read more about removing the excessive from car use [here](/?p=excessive-driving-1).
+Read more about removing the "excessive" from "excessive car use" [here](/?p=excessive-driving-1).
 
 <details>
   <summary>Theoretical sauce</summary>
