@@ -48,7 +48,6 @@ The market and government failures leading to urban sprawl are:
 - [Excessive car use](/?p=urban-sprawl-2#excessive-car-use) (a consequence, whose market and government failures are discussed [here](/?p=excessive-car-use-1))
 - [Land speculation](/?p=urban-sprawl-2#land-speculation)
 - [Zoning and land-use regulations](/?p=urban-sprawl-2#zoning-and-land-use-regulations)
-- [Height restrictions](/?p=urban-sprawl-2#height-restrictions)
 - [Historic building preservation](/?p=urban-sprawl-2#historic-building-preservation)
 - [Mortgage subsidies](/?p=urban-sprawl-2#mortgage-subsidies)
 - [Unbalanced infrastructure finance](/?p=urban-sprawl-2#unbalanced-infrastructure-finance)
