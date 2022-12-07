@@ -45,7 +45,7 @@ Getting back to urban sprawl, by Brueckner (2000), urban sprawl is a *consequenc
 
 ## Root causes of urban sprawl
 The market and government failures leading to urban sprawl are:
-- Excessive car use
+- [Excessive car use](/?p=urban-sprawl-2#excessive-car-use) (a consequence, whose market and government failures are discussed [here](/?p=excessive-car-use-1))
 - Zoning and land-use regulations
 - Height restrictions https://academic.oup.com/book/2269/chapter-abstract/142378551?redirectedFrom=fulltext
 - Historic building protection
