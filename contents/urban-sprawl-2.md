@@ -11,7 +11,6 @@ by [Victor Mayland Nielsen](/?p=victor-mayland-nielsen), 2022
   - [Excessive car use](#excessive-car-use)
   - [Land speculation](#land-speculation)
   - [Zoning and land-use regulations](#zoning-and-land-use-regulations)
-  - [Height restrictions](#height-restrictions)
   - [Historic building preservation](#historic-building-preservation)
   - [Mortgage subsidies](#mortgage-subsidies)
   - [Unbalanced infrastructure finance](#unbalanced-infrastructure-finance)
