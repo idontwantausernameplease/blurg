@@ -64,7 +64,7 @@ They don't do so without consequences (link to housing crisis article) and are n
 
 ## Insufficient remidies:
 Commonly advocated as a solution to urban sprawl:
-- Urban growth boundaries / green belts
+- [Urban growth boundaries / green belts](/?p=urban-growth-boundaries-green-belts)
 
 ## Other critiques of urban sprawl
 While urban sprawl is mostly a consequence of distortions (an umbrella term for government and market failures), urban sprawl also contributes to some consequences.
