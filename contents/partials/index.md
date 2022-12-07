@@ -9,14 +9,14 @@ I am a researcher of spatial & transport economics. In this collaborative series
 
 - [Introduction](/?p=introduction)
 - The challenge of urban sprawl:
-  - Part I: [The problem and the remedy](/?p=urban-sprawl)
-  - Part II: [The remedy revisited](/?p=remedy-revisited)
+  - Part I: [The problem and the remedy](/?p=urban-sprawl-1)
+  - Part II: [The remedy revisited](/?p=urban-sprawl-2)
   - Part III: [](-)
 - The challenge of the housing crisis:
-  - Part I: [The problem and the remedy](/?p=the-housing-crisis)
+  - Part I: [The problem and the remedy](/?p=the-housing-crisis-1)
   - Part II: [The remedy revisited](-)
   - Part III: [](-)
 - The challenge of excessive car use:
-  - Part I: [The problem and the remedy](/?p=excessive-car-use)
+  - Part I: [The problem and the remedy](/?p=excessive-car-use-1)
   - Part II: [The remedy revisited](-)
   - Part III: [](-)
