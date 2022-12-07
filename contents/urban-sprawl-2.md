@@ -1,9 +1,9 @@
-# Urban sprawl - The remedies revisited
+# Urban sprawl - The solution
 
 by [Victor Mayland Nielsen](/?p=victor-mayland-nielsen), 2022
 
-[Part I  - The problem and the remedy](/?p=urban-sprawl-1)  
-**Part II - The remedies revisited 👈** (You are here)  
+[Part I  - The problem](/?p=urban-sprawl-1)  
+**Part II - The solution 👈** (You are here)  
 [Part III  - ]()
 
 ## Table of contents
