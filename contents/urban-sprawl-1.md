@@ -52,7 +52,7 @@ The market and government failures leading to urban sprawl are:
 - [Historic building preservation](/?p=urban-sprawl-2#historic-building-preservation)
 - [Mortgage subsidies](/?p=urban-sprawl-2#mortgage-subsidies)
 - [Unbalanced infrastructure finance](/?p=urban-sprawl-2#unbalanced-infrastructure-finance)
-- [Open space and nature externalities](/?p=urban-sprawl-2#open-space-and-nature-amenities)
+- [Open space and nature externalities](/?p=urban-sprawl-2#open-space-and-nature-externalities)
 
 Clicking on any of these will lead to a description of the problem and their solution. 
 
