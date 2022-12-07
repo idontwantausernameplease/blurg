@@ -21,7 +21,7 @@ by [Victor Mayland Nielsen](/?p=victor-mayland-nielsen), 2022
 Use Puga & Duranton (2015) and Brueckner (2011)
 
 ### Excessive car use
-Excessive car use is a consequence of a [list of market and government failures](/?p=excessive-driving-1). I list it as a consequence, because there will be a whole section devoted to talking about the root causes of excessive car use. 
+Excessive car use is a consequence of a list of market and government failures. I list it as a consequence, because there will be a [whole section](/?p=excessive-driving-1) devoted to talking about the root causes of excessive car use. 
 
 Car use has always had a dual relationship with outwards expansion of cities; as people can drive more (due to lower transport costs and higher income), they can live further away, and as people live further away, other modes of transport becomes less viable. If this car use is excessive, it will add more demand for outwards expansion that can be considered urban sprawl. The car use is excessive as long as infrastructure for car use is provided without users paying for it and as long as there are uninternalised externalities of driving. 
 
