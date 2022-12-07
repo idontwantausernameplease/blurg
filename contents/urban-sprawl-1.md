@@ -32,7 +32,7 @@ Spatial growth from improvements in transport technology or increased preference
 So when is spatial growth considered urban sprawl? 
 The part of spatial growth that can be considered urban sprawl comes from the economic problems that lead to excessive outwards expansion. I explain the importance of how we define the problem in the next section. 
 
-## Solving an economic problem can be like curing a disease
+## Urban sprawl is the symptom, not the disease
 Let's say you are born with a disease with certain symptoms. It is not deadly, but it keeps you from living your full potential. If you are lucky, there is a cure, which will end the disease without side effects. Alternatively, you can treat the symptoms using a treatment that may have side effects and might not completely resolve all the symptoms. 
 Cures might sometimes involve a bigger investment, but will be more beneficial in the long run through creating less side effects. If you have gotten used to certain treatments, your body might also need time to adapt to the cure. 
 
