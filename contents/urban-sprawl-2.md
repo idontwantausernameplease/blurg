@@ -50,7 +50,7 @@ Empirical sources
 - Effect of outwards expansion on car use
   - b
   
-<details>
+</details>
 
 ### Land speculation
 Land speculation is a financial activity that involves purchasing land or real estate with the hope that it will increase in value. As long as land is scarce and populations are rising, land value is expected to increase higher than inflation, which makes it a bubble very unlikely to burst. This makes land a very attractive investment increasing the demand for investing in it.
@@ -59,7 +59,7 @@ Since it is such a good investment, land speculation makes it possible to earn f
 
 A land value tax would stop land speculation. The closer the land value tax is to resemble the land rent, the less land speculation is possible. Without the ability to earn from owning land, but only from the improvements on the land, land owners will no longer have an incentive to hold on to land if they do not plan to build something they can rent out. This will automatically lower vacancy rates, increase the rate of construction, and encourage infill development eliminating this market failure leading to urban sprawl. 
 
- <details>
+<details>
   <summary>(Re)sources</summary>
   
 Resources
@@ -77,7 +77,7 @@ Empirical sources
 - Effect of outwards expansion on car use
   - b
   
-<details>
+</details>
 
 
 ### Zoning and land use regulations
