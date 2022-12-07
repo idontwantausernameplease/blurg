@@ -1,4 +1,4 @@
-# Urban sprawl - The problem and the remedy
+# Urban sprawl - The problem
 
 by [Victor Mayland Nielsen](/?p=victor-mayland-nielsen), 2022
 
