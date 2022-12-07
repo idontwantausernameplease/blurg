@@ -91,8 +91,8 @@ A land value tax would stop land speculation. The closer the land value tax is t
 Local and national governments have many rules on what can be built where and how. These include:
 - The use of the land (residential, commercial...)
 - The form of the property
-- The 
 - Minimum parking requirements
+- The internal structure of the property
 - Number of rooms or dwellings
 - Minimum unit size
 - Design of buildings
@@ -101,16 +101,21 @@ Local and national governments have many rules on what can be built where and ho
 
 #### The use of the land
 Regulating the use of land is done to protect and stabilise the value of land. A factory being built next to a residential area would have consequences for the land values as well as increased external costs coming from the factory through higher exposure to air, noise, and ground pollution. Without compensation for reduced land values and without internalisation of external costs, factories or other uses with nuisance would not be disincentivised to locate in suboptimal areas and we would get suboptimal land use. On the contrary, zoning too strictly can also result in inefficient outcomes since businesses and residences will not always be in their optimal locations. Strict zoning can mean that you cannot have a shop in your house or a restaurant across the street. The effect of this specific part of zoning on urban sprawl is actually not so clear, but too much separation of zones is likely making people more car dependent since the average distance to a destination is higher the more separated uses are, and car dependency is a function of proximity.  
+
+The literature is not exactly clear if there is a doable first best solution to this problem, but a land value tax would eliminate the first of the problems above and a pigouvian tax would eliminate the second problem. Since a pigouvian tax on such a small scale would be administratively infeasable at this point, it is probably best to work within the framework of zoning and loosen them. One way of doing this is to take a look at japanese zoning. 
 https://www.centreforcities.org/blog/planning-reform-how-does-zoning-work-in-other-countries/ - japanese zoning
 https://devonzuegel.com/post/north-american-vs-japanese-zoning - japanese zoning
 
 #### The form of the property
-The zoning regulations of the use of land usually also specifies the form of a building. This includes the type of building (single-family detached housing, duplexes, rowhouses etc.), height restrictions, minimum lot size restrictions, and building setbacks/frontage/garden space. 
+The zoning regulations of the use of land usually also specifies the form of a building. This includes the type of building (single-family detached housing, duplexes, rowhouses etc.), height restrictions, minimum lot size restrictions, and building setbacks/frontage/garden space. All of these have the purpose to protect land values. A tall building may cast a shadow on a lot of buildings, utilities may need to be able to reach buildings, buildings with high variation in setbacks may provide an unaesthetic lack of uniformity, and small irregular lots can create issues with property rights. However, all these restrictions either increase the average dwelling size or decrease the amount of dwellings per unit of land - both of which adds pressure to outward expansion that can be considered urban sprawl. 
+
+So what is the closest we can get to a first best policy? A land value tax would compensate people for reductions in land values through also decreasing their land value taxes. This would reduce the need for governments to protect the value of land. If a government wants to keep some lot size restrictions, building setbacks and height restrictions, there is no reasons they couldn't set these restrictions at a lower value to allow for more flexibility. 
 
 
 
 
-The literature is not exactly clear if there is a doable first best solution to this problem, but a land value tax would eliminate the first of the problems above and a pigouvian tax would eliminate the second problem. Since a pigouvian tax on such a small scale would be administratively infeasable at this point, it is probably best to work within the 
+
+
 
 
 
