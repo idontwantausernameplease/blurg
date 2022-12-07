@@ -62,7 +62,7 @@ Some other policies indirectly limit spatial growth:
 
 They don't do so without consequences (link to housing crisis article) and are not nearly enough to counteract the problems of urban sprawl, so they cannot be seen as solutions.
 
-## Insufficient remidies:
+## Insufficient solutions:
 Commonly advocated as a solution to urban sprawl:
 - [Urban growth boundaries / green belts](/?p=urban-growth-boundaries-green-belts)
 
