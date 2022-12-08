@@ -2,9 +2,9 @@
 
 by [Victor Mayland Nielsen](/?p=victor-mayland-nielsen), 2022
 
-[Part 0 - Introduction](/?p=urban-sprawl-0)
+[Part 0 - Introduction](/?p=urban-sprawl-0)  
 **Part I - The problem 👈** (You are here)  
-[Part II  - The solution](/?p=urban-sprawl-2)
+[Part II  - The solution](/?p=urban-sprawl-2)  
 [Part III - ?](/?p=urban-sprawl-3)  
 
 We talked about the importance of framing the problem not as urban sprawl but as the market and government failures that separates urban sprawl from mere outwards expansion or spatial growth. Framing the problem as sprawl and ignoring the root causes of it will further complicatet he web of inefficient policies. 
