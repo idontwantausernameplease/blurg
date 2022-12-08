@@ -2,69 +2,137 @@
 
 by [Victor Mayland Nielsen](/?p=victor-mayland-nielsen), 2022
 
+[Part 0 - Introduction](/?p=urban-sprawl-0)
 **Part I - The problem 👈** (You are here)  
 [Part II  - The solution](/?p=urban-sprawl-2)
 [Part III - ?](-)  
 
-Outwards spatial growth of cities is a natural occurrence happening from population increases. Still, sometimes this expansion is exaggerated due to market failures or government failures and then we get urban sprawl. In this article, I explain when exactly spatial growth is excessive and I identify, which problems do and don't cause this excess.
+We talked about the importance of framing the problem not as urban sprawl but as the market and government failures that separates urban sprawl from mere outwards expansion or spatial growth. Framing the problem as sprawl and ignoring the root causes of it will further complicatet he web of inefficient policies. 
 
-## The difference between urban sprawl and spatial growth
-When cities grow, they do so both outwards and upwards. There is a slight trade-off between the two: Limits to outwards expansion creates more pressure for upwards expansion and vice versa. Both urban sprawl and spatial growth refers to outwards expansion. When it comes to urban sprawl, I prefer using Brueckner's (2000) definition, which is "*excessive* spatial growth" with emphasis on *excessive*. This definition implies that:
-- Urban sprawl is undesirable
-- Spatial growth/outwards expansion is not necessarily undesirable
+## Table of contents 
+- [The problems one by one](#the-problems-one-by-one)
+  - [Excessive car use](#excessive-car-use) (a consequence, whose market and government failures are discussed [here](/?p=excessive-car-use-1))
+  - [Land speculation](#land-speculation)
+  - [Zoning and land-use regulations](#zoning-and-land-use-regulations)
+  - [Historic building preservation](#historic-building-preservation)
+  - [Mortgage subsidies](#mortgage-subsidies)
+  - [Unbalanced infrastructure finance](#unbalanced-infrastructure-finance)
+  - [Open space and nature externalities](#open-space-and-nature-externalities)
+- [Other critiques of urban sprawl](#other-critiques-of-urban-sprawl)
 
-This distinction is important, because spatial growth is a natural part of human progress. It happens for instance when:
-- Populations increase
-- Incomes increase
 
-When populations increase, demand for housing increases, and since it is not efficient to accomodate these people solely through upwards expansion, agricultural land gets outbidded for urban development due to the outwards pressure. Increasing income increases demand for more space and has similar effects. Spatial growth from increase in population or income is by Brueckner **not** enough to classify the expansion as urban sprawl.
-
-PS. If you worry that this eventually will be the end of the world, according to Hans Rosling, [population growth will eventually reach zero](https://www.ted.com/talks/hans_rosling_global_population_growth_box_by_box?language=en) and economically, there will always be an equilibrium balance between agricultural land and urban land. When it comes to natural space, there is a field of environmental economists and natural resource economists who have a lot of great ideas for that, that I will touch a bit upon later. 
-
-Some factors drive urban growth into either upward or outward:
-- Outward: Improvements in transport technology
-- Upward: Improvements in construction technology
-- Outward: Increased preferences for proximity to nature and more space 
-- Upward: Increased preferences for proximity to shops, museums and other urban amenities
-
-Spatial growth from improvements in transport technology or increased preferences for proximity to nature or more space is by Bruckner **not** enough to classify expansion as urban sprawl. 
-
-So when is spatial growth considered urban sprawl? 
-The part of spatial growth that can be considered urban sprawl comes from the economic problems that lead to excessive outwards expansion. I explain the importance of how we define the problem in the next section. 
-
-## Urban sprawl is the symptom, not the disease
-Let's say you are born with a disease with certain symptoms. It is not deadly, but it keeps you from living your full potential. If you are lucky, there is a cure, which will end the disease without side effects. Alternatively, you can treat the symptoms using a treatment that may have side effects and might not completely resolve all the symptoms. 
-Cures might sometimes involve a bigger investment, but will be more beneficial in the long run through creating less side effects. If you have gotten used to certain treatments, your body might also need time to adapt to the cure. 
-
-Similarly, market failures inately exist everywhere in the world, they do not shut down all economies, but they keep them from reaching their potential. Some market failures have first-best policies, which solve the market failure without unintended unpredictable consequences, and some have second-best policies, which produce unintended unpredictable consequences that may need new policies and may not fully solve the market failure.
-First-best policies are sometimes more costly, but in the long run they will be more beneficial because they create less consequences to develop policy for. As you develop more policies to deal with all these consequences, it becomes more difficult to switch to a better policy as society adapts to the other policies. 
-
-However, as society grows, first-best policies become technologically more feasible. This analogy has two main implications: Firstly, it calls for a focus shift toward defining problems based on the root cause rather than the consequence. Secondly, it calls for a focus shift toward getting better at using first-best policy when possible.
-
-Getting back to urban sprawl, by Brueckner (2000), urban sprawl is a *consequence* of a list of market and government failures. Defining urban sprawl as the problem is like choosing to focus on the symptoms rather than the disease. Doing so, also creates a confusing landscape in terms of figuring out when urban sprawl is solved. 
-
-## Root causes of urban sprawl
 The market and government failures leading to urban sprawl are:
-- [Excessive car use](/?p=urban-sprawl-2#excessive-car-use) (a consequence, whose market and government failures are discussed [here](/?p=excessive-car-use-1))
-- [Land speculation](/?p=urban-sprawl-2#land-speculation)
-- [Zoning and land-use regulations](/?p=urban-sprawl-2#zoning-and-land-use-regulations)
-- [Historic building preservation](/?p=urban-sprawl-2#historic-building-preservation)
-- [Mortgage subsidies](/?p=urban-sprawl-2#mortgage-subsidies)
-- [Unbalanced infrastructure finance](/?p=urban-sprawl-2#unbalanced-infrastructure-finance)
-- [Open space and nature externalities](/?p=urban-sprawl-2#open-space-and-nature-externalities)
 
-Clicking on any of these will lead to a description of the problem and their solution. 
 
-Some other policies indirectly limit spatial growth:
-- Farming subsidies
-- Nature protection
 
-They don't do so without consequences (link to housing crisis article) and are not nearly enough to counteract the problems of urban sprawl, so they cannot be seen as solutions.
+### Excessive car use
+Excessive car use is a consequence of a list of market and government failures. I list it as a consequence, because there will be a [whole section](/?p=excessive-driving-1) devoted to talking about the root causes of excessive car use. 
 
-## Insufficient solutions:
-Commonly advocated as a solution to urban sprawl:
-- [Urban growth boundaries / green belts](/?p=urban-growth-boundaries-green-belts)
+Car use has always had a dual relationship with outwards expansion of cities; as people can drive more (due to lower transport costs and higher income), they can live further away, and as people live further away, other modes of transport becomes less viable. If this car use is excessive, it will add more demand for outwards expansion that can be considered urban sprawl. 
 
+The car use is excessive as long as infrastructure for car use (driving and parking) is provided without users paying for it and as long as there are uninternalised externalities of driving. So removing the "excessive" from "excessive car use" means dealing with each market and government failure individually and applying solutions as close to first best policy as possible. 
+
+Read more about removing the "excessive" from "excessive car use" [here](/?p=excessive-driving-1).
+
+<details>
+  <summary>(Re)sources</summary>
+  
+Resources
+  
+Theoretical sources
+- Effect of car use on outwards expansion
+  - a
+- Effect of outwards expansion on car use
+  - b
+Empirical sources
+- Effect of car use on outwards expansion
+  - Glaeser & Kahn (2004)
+  - Ostermeijer et al. (2022)
+- Effect of outwards expansion on car use
+  - b
+  
+</details>
+
+[Go to solution](/?p=urban-sprawl-2#excessive-car-use) 
+### Land speculation
+Land speculation is a financial activity that involves purchasing land or real estate with the hope that it will increase in value. As long as land is scarce and populations are rising, land value is expected to increase higher than inflation, which makes it a bubble very unlikely to burst. This makes land a very attractive investment increasing the demand for investing in it.
+
+Since it is such a good investment, land speculation makes it possible to earn from simply holding on to land, whether there is a building on it or not. This gives a land owner little incentive to actually create an improvement on the land. Even if there is an improvement on the land, and it is rented out, they have little incentive to improve it further. Simply put, the possibility of land speculation in the context of urban sprawl lowers vacancy rates in housing, decreases the rate of construction, and discourages infill development. All of these add pressure to outwards expansion. 
+
+<details>
+  <summary>(Re)sources</summary>
+  
+Resources
+- [Neat collection of litterature reviews](https://stephenhoskins.notion.site/Lit-Review-Land-Value-Tax-969887261901432eb680185165c7f32a)
+- [Excellent summary of Henry George and explanations](http://gameofrent.com)
+Theoretical sources
+- Effect of car use on outwards expansion
+  - a
+- Effect of outwards expansion on car use
+  - b
+Empirical sources
+- Effect of car use on outwards expansion
+  - Glaeser & Kahn (2004)
+  - Ostermeijer et al. (2022)
+- Effect of outwards expansion on car use
+  - b
+  
+</details>
+
+[Go to solution](/?p=urban-sprawl-2#land-speculation)
+### Zoning and land use regulations
+Local and national governments have many rules on what can be built where and how. These include:
+- The use of the land (residential, commercial...)
+- The form of the property
+- Minimum parking requirements
+- The internal structure of the property
+- Other
+
+[Go to solution](/?p=urban-sprawl-2#zoning-and-land-use-regulations)
+#### The use of the land
+Regulating the use of land is done to protect and stabilise the value of land. A factory being built next to a residential area would have consequences for the land values as well as increased external costs coming from the factory through higher exposure to air, noise, and ground pollution. Without compensation for reduced land values and without internalisation of external costs, factories or other uses with nuisance would not be disincentivised to locate in suboptimal areas and we would get suboptimal land use. On the contrary, zoning too strictly can also result in inefficient outcomes since businesses and residences will not always be in their optimal locations. Strict zoning can mean that you cannot have a shop in your house or a restaurant across the street. The effect of this specific part of zoning on urban sprawl is actually not so clear, but too much separation of zones is likely making people more car dependent since the average distance to a destination is higher the more separated uses are, and car dependency is a function of proximity.  
+
+[Go to solution](/?p=urban-sprawl-2#the-use-of-the-land)
+#### The form of the property
+The zoning regulations of the use of land usually also specifies the form of a building. This includes the type of building (single-family detached housing, duplexes, rowhouses etc.), height restrictions, minimum lot size restrictions, and building setbacks/frontage/garden space. All of these have the purpose to protect land values. A tall building may cast a shadow on a lot of buildings, utilities may need to be able to reach buildings, buildings with high variation in setbacks may provide an unaesthetic lack of uniformity, and small irregular lots can create issues with property rights. However, all these restrictions either increase the average dwelling size or decrease the amount of dwellings per unit of land - both of which adds pressure to outward expansion that can be considered urban sprawl. 
+
+[Go to solution](/?p=urban-sprawl-2#the-form-of-the-property)
+#### Minimum parking requirements
+To alleviate the pressure of on-street parking demand, some cities have chosen to mandate minimum parking requirements in certain locations. This means that dependent on the assumed parking demand of the building, the government will set a minimum amount of parking spots required for development. This is often done because the buildings otherwise take advantage of the free parking provided by the street, which creates a shortage of parking spots unless they are priced. Similar to building setbacks, this lowers the amount of dwellings per unit of land and means less space for real estate than optimal resulting in outwards expansion pressure that we can call urban sprawl. 
+
+<details>
+  <summary>(Re)sources</summary>
+
+- Donald Shoup - high cost of free parking
+
+</details>
+
+[Go to solution](/?p=urban-sprawl-2#minimum-parking-requirements)
+#### The internal structure of the property
+Sometimes governments have laws regarding the internal structure of the building. Relevant to urban sprawl is regulations on the minimum room size, the minimum dwelling size, and the minimum amount of rooms per resident. Some of these are done for safety purposes, and others are done to raise the minimum standard of living. Some have complained that "greedy developers" have built too small, which have resulted in increasing the minimum dwelling size required. Unfortunately some people might have been willing to live in that space for the lower price it would have. All of these laws increase the average dwelling size and thus contributes to pressure for outwards expansion leading to more urban sprawl. 
+
+[Go to solution](/?p=urban-sprawl-2#the-internal-structure-of-the-property)
+#### Other
+Governments also regulate the design of buildings, sets standards for quality control, and sets standards for sustainability. While these may be costly additions for developers and there might be first best solutions to some of them, they also are not expected to have important implications for urban sprawl. 
+
+### Historic building preservation
+Historic building preservation is done because old city centres have a historic amenity (koster article). The age of the buildings are considered to be valued by the citizens. It is not exactly clear how much of this value is derived from the age of the building itself or it's historic properties and how much is from specific design choices that could be copied today, but historic areas do have value. However, preserving old buildings also functions as a height restriction since buildings cannot be rebuilt at higher densities to deal with changing demands. This limits both the average dwelling size and the amount of dwellings per land resulting in urban sprawl.
+
+[Go to solution](/?p=urban-sprawl-2#historic-building-preservation)
+### Mortgage subsidies
+Mortgage subsidies are often a tool used to help people afford housing in a time of difficulty in doing so. Instead of focusing on why that doesn't work, I want to put focus on how it affects urban sprawl. Since most loans in housing are made for single-family detached housing, a housing mortgage subsidy favors purchases of single-family detached houses more than apartments. This means that a demand is induced for single-family detached housing. A type of housing taking more space. At the same time it gives homebuyers more purchasing power to buy bigger homes with larger lots resulting in taking even more space. Both of these create pressure for outwards expansion and thus result in urban sprawl. 
+  
+https://www.strongtowns.org/journal/2017/8/15/financing-suburbia-how-government-mortgage-policy-determined-where-youlive
+
+[Go to solution](/?p=urban-sprawl-2#mortgage-subsidies)
+### Unbalanced infrastructure finance
+We all pay taxes in the location we live in. These taxes are fairly equal across space. However the costs of the public infrastructure provided is very unequal per citizen across space. In the suburbs, the costs of providing infrastructure is a lot more costly per person than in more urban areas. This is because of economies of scale and cost sharing. This means that suburban dwellers get a big tax discount for the amount public infrastructure needed to sustain them, which induces an inefficient shift towards suburban living. Since suburban living takes more space per person, this creates an outwards expansion pressure that we can call urban sprawl. 
+
+[Go to solution](/?p=urban-sprawl-2#unbalanced-infrastructure-finance)
+### Open space and nature externalities
+Nature and open space around cities provide citizens with positive amenities. People get joy out of having access to nature. Building on nature would thus cause some reductions in land values. However, being too strict on where to build can have serious impacts on housing affordability. Ignoring open space and nature externalities would lead to development patterns towards outwards expansion that we can call urban sprawl. 
+
+[Go to solution](/?p=urban-sprawl-2#open-space-and-nature-externalities)
 ## Other critiques of urban sprawl
 While urban sprawl is mostly a consequence of distortions (an umbrella term for government and market failures), urban sprawl also contributes to some consequences.
 
@@ -86,3 +154,5 @@ Regardless of the validity of these extra problems of urban sprawl, they do not 
 Urban sprawl itself is not a problem, it's a consequence of a set of market and government failures that either produce the problem or try to combat it inefficiently. The most efficient way to solve it would be to look to the root of the problems by tackling the market failures and the policies that cause them.
 
 I argue that the extra problems of urban sprawl pose an urgency to solve the root causes of urban sprawl rather than creating reasons to limit urban sprawl through new policies.
+
+[Go to part II  - The solution](/?p=urban-sprawl-2)
