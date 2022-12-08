@@ -5,12 +5,16 @@ by [Victor Mayland Nielsen](/?p=victor-mayland-nielsen), 2022
 **Part 0 - Introduction 👈** (You are here)  
 [Part I - The problem](/?p=urban-sprawl-1)  
 [Part II  - The solution](/?p=urban-sprawl-2)  
-[Part III - ?](/?p=urban-sprawl-3)  
+[Part III - ?](/?p=urban-sprawl-3) 
+
+## Table of contents 
+- [The difference between urban sprawl and spatial growth](#the-difference-between-urban-sprawl-and-spatial-growth)
+- [Urban sprawl is the symptom, not the disease](#urban-sprawl-is-the-symptom-not-the-disease)
 
 Outwards spatial growth of cities is a natural occurrence happening from population increases. Still, sometimes this expansion is exaggerated due to market failures or government failures and then we get urban sprawl. In this article, I explain when exactly spatial growth is excessive and I identify, which problems do and don't cause this excess.
 
 ## The difference between urban sprawl and spatial growth
-When cities grow, they do so both outwards and upwards. There is a slight trade-off between the two: Limits to outwards expansion creates more pressure for upwards expansion and vice versa. Both urban sprawl and spatial growth refers to outwards expansion. When it comes to urban sprawl, I prefer using Brueckner's (2000) definition, which is "*excessive* spatial growth" with emphasis on *excessive*. This definition implies that:
+When cities grow, they do so both outwards and upwards. There is a slight trade-off between the two: Limits to outwards expansion creates more pressure for upwards expansion and vice versa. Both urban sprawl and spatial growth refers to outwards expansion. When it comes to urban sprawl, I prefer using Brueckner's ([2000](https://www.researchgate.net/publication/248243682_Urban_Sprawl_Diagnosis_and_Remedies)) definition, which is "*excessive* spatial growth" with emphasis on *excessive*. This definition implies that:
 - Urban sprawl is undesirable
 - Spatial growth/outwards expansion is not necessarily undesirable
 
@@ -33,13 +37,18 @@ This depends on a few questions:
 
 </details>
 
-Some factors drive urban growth into either upward or outward:
-- Outward: Improvements in transport technology
-- Upward: Improvements in construction technology
-- Outward: Increased preferences for proximity to nature and more space 
-- Upward: Increased preferences for proximity to shops, museums and other urban amenities
+Some factors drive urban growth either more upwards or more outwards:
+- Upwards: Improvements in farming productivity
+- Outwards: Improvements in transport technology
+- Upwards: Improvements in construction technology
+- Outwards: Increased preferences for proximity to nature and more space 
+- Upwards: Increased preferences for proximity to shops, museums and other urban amenities
 
-Spatial growth from improvements in transport technology or increased preferences for proximity to nature or more space is by Bruckner **not** enough to classify expansion as urban sprawl. 
+Jan K. Brueckner is one of the most prominent economists on the subject of urban sprawl. The above relationships are shown theoretically by Brueckner ([2011](https://www.jstor.org/stable/j.ctt5hhcnn)) and empirically by Brueckner & Fansler ([1983](https://www.jstor.org/stable/1924193?seq=4#metadata_info_tab_contents)). 
+
+![](images/population.png) ![](images/transport cost.png) ![](images/agriculturalrent.png)
+
+Spatial growth from improvements in transport technology or increased preferences for proximity to nature or more space is by Bruckner ([2000](https://www.researchgate.net/publication/248243682_Urban_Sprawl_Diagnosis_and_Remedies)) **not** enough to classify expansion as urban sprawl. 
 
 So when is spatial growth considered urban sprawl? 
 The part of spatial growth that can be considered urban sprawl comes from the economic problems that lead to excessive outwards expansion. I explain the importance of how we define the problem in the next section. 
