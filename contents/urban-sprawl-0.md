@@ -63,6 +63,14 @@ This also shows that there is a slight trade-off between outwards and upwards ex
 
 The monocentric city model is not a realistic predictive model. Its critique includes not representing real cities, assuming that everyone are the same with perfect information and relocation mobility, and putting too much emphasis on transport costs in predicting people's relocation behaviour. However, the main predictions of the model remain relevant - also empirically. Brueckner & Fansler ([1983](https://www.jstor.org/stable/1924193?seq=4#metadata_info_tab_contents)) put the three conclusions from the above pictures to the test and found significant effects on all three predictions. 
 
+<details>
+  <summary>(Re)sources on the monocentric city model</summary>
+Understanding it:
+
+Empirical evidence for it:
+https://www.researchgate.net/publication/355901183_Is_the_monocentric_urban_economic_model_still_empirically_relevant_Assessing_urban_econometric_predictions_in_192_cities_on_five_continents
+</details>
+
 ## The difference between urban sprawl and spatial growth
 Both urban sprawl and spatial growth refers to outwards expansion. When it comes to urban sprawl, I prefer using Brueckner's ([2000](https://www.researchgate.net/publication/248243682_Urban_Sprawl_Diagnosis_and_Remedies)) definition, which is "*excessive* spatial growth" with emphasis on *excessive*. This definition implies that:
 - Urban sprawl is undesirable
