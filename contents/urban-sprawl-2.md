@@ -2,9 +2,10 @@
 
 by [Victor Mayland Nielsen](/?p=victor-mayland-nielsen), 2022
 
+[Part 0 - Introduction](/?p=urban-sprawl-0)  
 [Part I  - The problem](/?p=urban-sprawl-1)  
 **Part II - The solution 👈** (You are here)  
-[Part III  - ]()
+[Part III  - ](/?p=urban-sprawl-3)  
 
 We talked about the market and government failures that lead to urban sprawl, why they do that, and 
 
