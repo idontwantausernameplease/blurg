@@ -47,13 +47,14 @@ Some factors drive urban growth either more upwards or more outwards:
 Jan K. Brueckner is one of the most prominent economists on the subject of urban sprawl. The above relationships are shown theoretically by Brueckner ([2011](https://www.jstor.org/stable/j.ctt5hhcnn)) and empirically by Brueckner & Fansler ([1983](https://www.jstor.org/stable/1924193?seq=4#metadata_info_tab_contents)). 
 
 <p align="centre">
-  <img src="images/population.png" width="340" />
-  <img src="images/transportcost.png" width="340" /> 
-  <img src="images/agriculturalrent.png" width="340" />
+  <img src="images/population.png" width="320" />
+  <img src="images/transportcost.png" width="320" /> 
+  <img src="images/agriculturalrent.png" width="320" />
+</p>
+<p align = "left">
+Monocentric city model. Figures from Brueckner ([2011](https://www.jstor.org/stable/j.ctt5hhcnn)).
 </p>
 
-
-![](images/population.png) ![](images/transportcost.png) ![](images/agriculturalrent.png)
 
 Spatial growth from improvements in transport technology or increased preferences for proximity to nature or more space is by Bruckner ([2000](https://www.researchgate.net/publication/248243682_Urban_Sprawl_Diagnosis_and_Remedies)) **not** enough to classify expansion as urban sprawl. 
 
