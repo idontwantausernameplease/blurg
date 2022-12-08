@@ -5,7 +5,7 @@ by [Victor Mayland Nielsen](/?p=victor-mayland-nielsen), 2022
 **Part 0 - Introduction 👈** (You are here)  
 [Part I - The problem](/?p=urban-sprawl-1)
 [Part II  - The solution](/?p=urban-sprawl-2)
-[Part III - ?](-)  
+[Part III - ?](/?p=urban-sprawl-3)  
 
 Outwards spatial growth of cities is a natural occurrence happening from population increases. Still, sometimes this expansion is exaggerated due to market failures or government failures and then we get urban sprawl. In this article, I explain when exactly spatial growth is excessive and I identify, which problems do and don't cause this excess.
 
