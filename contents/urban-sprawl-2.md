@@ -131,7 +131,7 @@ Since it's hard to imagine a world where public infrastructure would be privatis
 Where is the optimal level of development on nature? Unfortunately, this is dynamic and will change as population changes or preferences change. However, there is a way to take this into regard. If the city has a 100% tax on land rents, it means that whatever value is lost from building on new land can be assessed in land appraisals and it can then be weighed against the expected value of the new developments. If a city is good at land appraisals, it can then optimise on where and how big patches of park space should be added. 
 
 [Go to problem](/?p=urban-sprawl-1#open-space-and-nature-externalities)
-## The insufficient remedy
+## The insufficient solution
 ### Urban growth boundary / green belts
 Urban growth boundaries are a tool specifically used to limit spatial growth. The problem with urban growth boundaries is that there is no real way of determining where the boundaries optimally should be. Even if there was a way, those optimal boundaries would change over time, because a long list of dynamic parameters affects where the boundaries should be (Brueckner, 2000). This is another reason to solve the root causes; they tend to be much easier to calculate an optimal solution for. https://www.sciencedirect.com/science/article/pii/S0264837721006256?casa_token=20oYyUq-KBEAAAAA:mLmGGlUMuyL7TXt-ZejT1FG2cMTfGDf316UuHSHKZ8YQluJCRU1A3qhPt_Ip3I51a5sMXVtdYA
 
