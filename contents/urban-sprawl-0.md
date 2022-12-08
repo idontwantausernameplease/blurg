@@ -43,3 +43,5 @@ First-best policies are sometimes more costly, but in the long run they will be 
 However, as society grows, first-best policies become technologically more feasible. This analogy has two main implications: Firstly, it calls for a focus shift toward defining problems based on the root cause rather than the consequence. Secondly, it calls for a focus shift toward getting better at using first-best policy when possible.
 
 Getting back to urban sprawl, by Brueckner (2000), urban sprawl is a *consequence* of a list of market and government failures. Defining urban sprawl as the problem is like choosing to focus on the symptoms rather than the disease. Doing so, also creates a confusing landscape in terms of figuring out when urban sprawl is solved. 
+
+[Go to part I - The problem](/?p=urban-sprawl-1)
