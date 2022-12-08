@@ -10,7 +10,6 @@ by [Victor Mayland Nielsen](/?p=victor-mayland-nielsen), 2022
 We talked about the importance of framing the problem not as urban sprawl but as the market and government failures that separates urban sprawl from mere outwards expansion or spatial growth. Framing the problem as sprawl and ignoring the root causes of it will further complicatet he web of inefficient policies. 
 
 ## Table of contents 
-- [The mechanisms of expansion](#the-mechanisms-of-expansion)
 - [The problems one by one](#the-problems-one-by-one)
   - [Excessive car use](#excessive-car-use) (a consequence, whose market and government failures are discussed [here](/?p=excessive-car-use-1))
   - [Land speculation](#land-speculation)
@@ -21,18 +20,17 @@ We talked about the importance of framing the problem not as urban sprawl but as
   - [Open space and nature externalities](#open-space-and-nature-externalities)
 - [Other critiques of urban sprawl](#other-critiques-of-urban-sprawl)
 
-## The mechanisms of expansion
-
-
-
 ## The problems one by one
 
 ### Excessive car use
-Excessive car use is a consequence of a list of market and government failures. I list it as a consequence, because there will be a [whole section](/?p=excessive-driving-1) devoted to talking about the root causes of excessive car use. 
+As we saw with the [monocentric city model](/?p=urban-sprawl-0#the-mechanism-of-spatial-growth), if transport costs increase, the expected effect more upwards pressure and less outwards pressure. In other words, a city developed with higher transport costs would develop more compactly unless the city is 100% planned. Even then, who is to say that an urban planner with full authority wouldn't take into consideration the demand of different locations in their plans?
 
-Car use has always had a dual relationship with outwards expansion of cities; as people can drive more (due to lower transport costs and higher income), they can live further away, and as people live further away, other modes of transport becomes less viable. If this car use is excessive, it will add more demand for outwards expansion that can be considered urban sprawl. 
+![](images/transportcosts.png)
+- caption
 
-The car use is excessive as long as infrastructure for car use (driving and parking) is provided without users paying for it and as long as there are uninternalised externalities of driving. So removing the "excessive" from "excessive car use" means dealing with each market and government failure individually and applying solutions as close to first best policy as possible. 
+This also means that if transport costs are lower than optimal from a transport perspective, it has the added consequence of contributing to urban sprawl. Excessive car use is a consequence transport costs that are lower than optimal, and without government intervention, transport costs are lower than optimal due to a list of market failures. I list it as a consequence, because there will be a [whole section](/?p=excessive-driving-1) devoted to talking about the root causes of excessive car use. 
+
+These market failures include the negative external costs of accident risks, congestion, noise and air pollution, infrastructure deterioration, climate change contribution and the costs of providing infrastructure. Government failures include commuting subsidies or solutions to the market failures that do not accurately represent the marginal cost of the externalities. 
 
 This necessarily means that more cars and more driving does not necessarily mean that they lead to urban sprawl. If we are getting more cars and drive more kilometers in them purely because incomes are increasing or because cars are getting cheaper to buy and drive, and they get you places faster, then they do not lead to urban sprawl. In this case they just create outwards expansion that cannot be considered urban sprawl. However, no place in the world has accurately internalised the marginal external costs of driving, so while that is the case, cars do lead to urban sprawl. 
 
@@ -62,6 +60,8 @@ Empirical sources
 Land speculation is a financial activity that involves purchasing land or real estate with the hope that it will increase in value. As long as land is scarce and populations are rising, land value is expected to increase higher than inflation, which makes it a bubble very unlikely to burst. This makes land a very attractive investment increasing the demand for investing in it.
 
 Since it is such a good investment, land speculation makes it possible to earn from simply holding on to land, whether there is a building on it or not. This gives a land owner little incentive to actually create an improvement on the land. Even if there is an improvement on the land, and it is rented out, they have little incentive to improve it further. Simply put, the possibility of land speculation in the context of urban sprawl lowers vacancy rates in housing, decreases the rate of construction, and discourages infill development. All of these add pressure to outwards expansion. 
+
+https://www.jstor.org/stable/24773482?seq=18#metadata_info_tab_contents shows that land value taxes make density gradients steeper. 
 
 <details>
   <summary>(Re)sources</summary>
@@ -98,7 +98,11 @@ Regulating the use of land is done to protect and stabilise the value of land. A
 
 [Go to solution](/?p=urban-sprawl-2#the-use-of-the-land)
 #### The form of the property
-The zoning regulations of the use of land usually also specifies the form of a building. This includes the type of building (single-family detached housing, duplexes, rowhouses etc.), height restrictions, minimum lot size restrictions, and building setbacks/frontage/garden space. All of these have the purpose to protect land values. A tall building may cast a shadow on a lot of buildings, utilities may need to be able to reach buildings, buildings with high variation in setbacks may provide an unaesthetic lack of uniformity, and small irregular lots can create issues with property rights. However, all these restrictions either increase the average dwelling size or decrease the amount of dwellings per unit of land - both of which adds pressure to outward expansion that can be considered urban sprawl. 
+The zoning regulations of the use of land usually also specifies the form of a building. This includes the type of building (single-family detached housing, duplexes, rowhouses etc.), height restrictions, minimum lot size restrictions, and building setbacks/frontage/garden space. All of these have the purpose to protect land values. A tall building may cast a shadow on a lot of buildings (and according to [Jan Gehl](https://www.goodreads.com/book/show/8556291-cities-for-people), if out of the human scale reduce quality of the streetscape), utilities may need to be able to reach buildings, buildings with high variation in setbacks may provide an unaesthetic lack of uniformity, and small irregular lots can create issues with property rights. However, all these restrictions either increase the average dwelling size or decrease the amount of dwellings per unit of land - both of which adds pressure to outward expansion that can be considered urban sprawl. 
+
+Brueckner ([2011](https://www.jstor.org/stable/j.ctt5hhcnn)) explains using the monocentric city model how height restrictions affect outwards expansion pressure. 
+
+![](images/far.png)
 
 [Go to solution](/?p=urban-sprawl-2#the-form-of-the-property)
 #### Minimum parking requirements
