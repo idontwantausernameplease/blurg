@@ -48,12 +48,12 @@ Jan K. Brueckner is one of the most prominent economists on the subject of urban
 
 <p align="centre">
   <img src="images/population.png" width="100" />
-  <img src="images/transport-cost.png" width="100" /> 
+  <img src="images/transportcost.png" width="100" /> 
   <img src="images/agriculturalrent.png" width="100" />
 </p>
 
 
-![](images/population.png) ![](images/transport-cost.png) ![](images/agriculturalrent.png)
+![](images/population.png) ![](images/transportcost.png) ![](images/agriculturalrent.png)
 
 Spatial growth from improvements in transport technology or increased preferences for proximity to nature or more space is by Bruckner ([2000](https://www.researchgate.net/publication/248243682_Urban_Sprawl_Diagnosis_and_Remedies)) **not** enough to classify expansion as urban sprawl. 
 
