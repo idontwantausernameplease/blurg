@@ -20,7 +20,18 @@ This distinction is important, because spatial growth is a natural part of human
 
 When populations increase, demand for housing increases, and since it is not efficient to accomodate these people solely through upwards expansion, agricultural land gets outbidded for urban development due to the outwards pressure. Increasing income increases demand for more space and has similar effects. Spatial growth from increase in population or income is by Brueckner **not** enough to classify the expansion as urban sprawl.
 
-PS. If you worry that this eventually will be the end of the world, according to Hans Rosling, [population growth will eventually reach zero](https://www.ted.com/talks/hans_rosling_global_population_growth_box_by_box?language=en) and economically, there will always be an equilibrium balance between agricultural land and urban land. When it comes to natural space, there is a field of environmental economists and natural resource economists who have a lot of great ideas for that, that I will touch a bit upon later. 
+<details>
+  <summary>Does this mean humanity will eventually doom itself by expanding on all nature and farmland?</summary>
+This depends on a few questions:
+1. Will populations keep rising? 
+2. How does society balance urban and agricultural land?
+3. How does society balance developed and natural land? 
+
+1. According to Hans Rosling, [population growth rate will eventually reach zero](https://www.ted.com/talks/hans_rosling_global_population_growth_box_by_box?language=en). This is due to the reduced birthrate as a country develops. In developing countries the growth rate is already close to 0 and most growth comes from immigration. 
+2. For this, I will cite Brueckner ([2000](https://ideas.repec.org/a/sae/inrsre/v23y2000i2p160-171.html)): "Concerns about loss of “scarce” farmland are also misplaced. Because the value of farm output is fully reflected in the amount that agricultural users are willing topay for the land, a successful bid by developers means that society values the houses and other structures built on the land more than the farm output that is forgone. If farmland became truly scarce and in need of preservation, its selling price would be high, making the land resistant to urban encroachment. With only a tiny fraction of the U.S. land area occupied by cities, farmland scarcity is not a problem currently, nor is it likely to become a problem in the future."
+3. For now, this is purely a democratic process. This part is a much less developed field in economics, but there are fields of nature ressource economics, environmental economics, and climate change economics. These fields develop models to help determine the value of nature and it's worth to us. This can help us create the right balance of nature reserves and development. Since I myself believe that nature is essential to sustainable human survival in the long run, I think these models will become an essential part of international politics and spatial policy making. Solutions that can come out of this could be that the government assigns value to nature, which can help us decide where to build and keep a reasonable balance. One most also recognise that sometimes building on nature *is* the more sustainable choice, since building on another plot of land further away would lead to citizens living with less sustainable behaviour such as driving a car for more kilometers. 
+
+</details>
 
 Some factors drive urban growth into either upward or outward:
 - Outward: Improvements in transport technology
