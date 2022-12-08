@@ -34,6 +34,8 @@ Car use has always had a dual relationship with outwards expansion of cities; as
 
 The car use is excessive as long as infrastructure for car use (driving and parking) is provided without users paying for it and as long as there are uninternalised externalities of driving. So removing the "excessive" from "excessive car use" means dealing with each market and government failure individually and applying solutions as close to first best policy as possible. 
 
+This necessarily means that more cars and more driving does not necessarily mean that they lead to urban sprawl. If we are getting more cars and drive more kilometers in them purely because incomes are increasing or because cars are getting cheaper to buy and drive, and they get you places faster, then they do not lead to urban sprawl. In this case they just create outwards expansion that cannot be considered urban sprawl. However, no place in the world has accurately internalised the marginal external costs of driving, so while that is the case, cars do lead to urban sprawl. 
+
 Read more about removing the "excessive" from "excessive car use" [here](/?p=excessive-driving-1).
 
 <details>
