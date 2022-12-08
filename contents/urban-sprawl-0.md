@@ -47,9 +47,9 @@ Some factors drive urban growth either more upwards or more outwards:
 Jan K. Brueckner is one of the most prominent economists on the subject of urban sprawl. The above relationships are shown theoretically by Brueckner ([2011](https://www.jstor.org/stable/j.ctt5hhcnn)) and empirically by Brueckner & Fansler ([1983](https://www.jstor.org/stable/1924193?seq=4#metadata_info_tab_contents)). 
 
 <p align="centre">
-  <img src="images/population.png" width="100" />
-  <img src="images/transportcost.png" width="100" /> 
-  <img src="images/agriculturalrent.png" width="100" />
+  <img src="images/population.png" width="360" />
+  <img src="images/transportcost.png" width="360" /> 
+  <img src="images/agriculturalrent.png" width="360" />
 </p>
 
 
