@@ -10,6 +10,7 @@ by [Victor Mayland Nielsen](/?p=victor-mayland-nielsen), 2022
 We talked about the importance of framing the problem not as urban sprawl but as the market and government failures that separates urban sprawl from mere outwards expansion or spatial growth. Framing the problem as sprawl and ignoring the root causes of it will further complicatet he web of inefficient policies. 
 
 ## Table of contents 
+- [The mechanisms of expansion](#the-mechanisms-of-expansion)
 - [The problems one by one](#the-problems-one-by-one)
   - [Excessive car use](#excessive-car-use) (a consequence, whose market and government failures are discussed [here](/?p=excessive-car-use-1))
   - [Land speculation](#land-speculation)
@@ -20,10 +21,11 @@ We talked about the importance of framing the problem not as urban sprawl but as
   - [Open space and nature externalities](#open-space-and-nature-externalities)
 - [Other critiques of urban sprawl](#other-critiques-of-urban-sprawl)
 
+## The mechanisms of expansion
 
-The market and government failures leading to urban sprawl are:
 
 
+## The problems one by one
 
 ### Excessive car use
 Excessive car use is a consequence of a list of market and government failures. I list it as a consequence, because there will be a [whole section](/?p=excessive-driving-1) devoted to talking about the root causes of excessive car use. 
