@@ -96,6 +96,8 @@ Local and national governments have many rules on what can be built where and ho
 #### The use of the land
 Regulating the use of land is done to protect and stabilise the value of land. A factory being built next to a residential area would have consequences for the land values as well as increased external costs coming from the factory through higher exposure to air, noise, and ground pollution. Without compensation for reduced land values and without internalisation of external costs, factories or other uses with nuisance would not be disincentivised to locate in suboptimal areas and we would get suboptimal land use. On the contrary, zoning too strictly can also result in inefficient outcomes since businesses and residences will not always be in their optimal locations. Strict zoning can mean that you cannot have a shop in your house or a restaurant across the street. The effect of this specific part of zoning on urban sprawl is actually not so clear, but too much separation of zones is likely making people more car dependent since the average distance to a destination is higher the more separated uses are, and car dependency is a function of proximity.  
 
+Brueckner 2011 and houston. 
+
 [Go to solution](/?p=urban-sprawl-2#the-use-of-the-land)
 #### The form of the property
 The zoning regulations of the use of land usually also specifies the form of a building. This includes the type of building (single-family detached housing, duplexes, rowhouses etc.), height restrictions, minimum lot size restrictions, and building setbacks/frontage/garden space. All of these have the purpose to protect land values. A tall building may cast a shadow on a lot of buildings (and according to [Jan Gehl](https://www.goodreads.com/book/show/8556291-cities-for-people), if out of the human scale reduce quality of the streetscape), utilities may need to be able to reach buildings, buildings with high variation in setbacks may provide an unaesthetic lack of uniformity, and small irregular lots can create issues with property rights. However, all these restrictions either increase the average dwelling size or decrease the amount of dwellings per unit of land - both of which adds pressure to outward expansion that can be considered urban sprawl. 
@@ -103,6 +105,9 @@ The zoning regulations of the use of land usually also specifies the form of a b
 Brueckner ([2011](https://www.jstor.org/stable/j.ctt5hhcnn)) explains using the monocentric city model how height restrictions affect outwards expansion pressure. 
 
 ![](images/far.png)
+- caption
+
+The graph shows how the floor-area-ratio restrictions create outward pressure for expansion. If the city can't build up, it must build out. 
 
 [Go to solution](/?p=urban-sprawl-2#the-form-of-the-property)
 #### Minimum parking requirements
@@ -122,6 +127,10 @@ Sometimes governments have laws regarding the internal structure of the building
 [Go to solution](/?p=urban-sprawl-2#the-internal-structure-of-the-property)
 #### Other
 Governments also regulate the design of buildings, sets standards for quality control, and sets standards for sustainability. While these may be costly additions for developers and there might be first best solutions to some of them, they also are not expected to have important implications for urban sprawl. 
+
+
+  There  is  a  large  empirical  literature  exploring  the  effect  of  land-use  controls  on  housing  prices.  With  the  model  showing  that  UGBs,  building-height restrictions, other density restrictions, and impact fees all raise the price  p  per unit of housing, the expected effect is in a posi-tive direction. A common recent approach (see, for example, Ihlanfeldt 2007)  is  to  measure  the  intensity  of  land-use  restrictions  using  data  from  a  survey  of  local  governments.  The  survey  indicates  how  many  types  of  restrictions  each  government  has  in  place  (whether  it  has  a  UGB,  levies  impact  fees,  and  so  on),  and  the  intensity  measure  is  a  simple count of the number of restrictions. This count measure is then used as an explanatory variable in a regression in which the dependent variable is a house price measure. The regression includes a variety of other  control  variables.  The  results  from  this  type  of  study  typically  show the expected effect: house prices in a locality rise with an increase in the number of land restrictions in place.   Taking  a  different  approach  to  exploring  the  effects  of  regulation,  Glaeser, Gyourko, and Saks (2005) measured the gap between the price per  square  foot  of  housing  and  construction  cost  per  square  foot  in  different communities. Noting that the two values should be equal in a competitive market, they argue that a large gap indicates the presence of government regulations that inhibit housing supply.
+
 
 ### Historic building preservation
 Historic building preservation is done because old city centres have a historic amenity (koster article). The age of the buildings are considered to be valued by the citizens. It is not exactly clear how much of this value is derived from the age of the building itself or it's historic properties and how much is from specific design choices that could be copied today, but historic areas do have value. However, preserving old buildings also functions as a height restriction since buildings cannot be rebuilt at higher densities to deal with changing demands. This limits both the average dwelling size and the amount of dwellings per land resulting in urban sprawl.
