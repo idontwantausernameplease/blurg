@@ -94,6 +94,15 @@ Local and national governments have many rules on what can be built where and ho
 - The internal structure of the property
 - Other
 
+<details>
+  <summary>(Re)sources</summary>
+  
+Resources
+- 
+  
+</details>
+
+
 [Go to solution](/?p=urban-sprawl-2#zoning-and-land-use-regulations)
 #### The use of the land
 Regulating the use of land is done to protect and stabilise the value of land. A factory being built next to a residential area would have consequences for the land values as well as increased external costs coming from the factory through higher exposure to air, noise, and ground pollution. Without compensation for reduced land values and without internalisation of external costs, factories or other uses with nuisance would not be disincentivised to locate in suboptimal areas and we would get suboptimal land use. On the contrary, zoning too strictly can also result in inefficient outcomes since businesses and residences will not always be in their optimal locations. Strict zoning can mean that you cannot have a shop in your house or a restaurant across the street. The effect of this specific part of zoning on urban sprawl is actually not so clear, but too much separation of zones is likely making people more car dependent since the average distance to a destination is higher the more separated uses are, and car dependency is a function of proximity.  
@@ -118,11 +127,12 @@ Resources
 - https://cooperative-individualism.org/mills-edwin-etal_urban-sprawl-lessons-from-urban-economics-2001.pdf
   - Jan Brueckner in this article focuses on open space amenities, unbalanced finance of infrastructure, and excessive car use. He briefly mentions that another cause of excessive spatial growth is the Tiebout ([1956](http://chula.livocity.com/econ/Micro/Charit/Publicgoods/localpublicgood.pdf))
   - Edwin Mills: "The government action that most promotes excessive suburbanization is local government land use controls. Both central city and suburban governments impose draconian limits on business and residential density - prohibition of multifamily dwellings, minimum lot size requirements, heights limitations, floor-area- ratio limits, and a panoply of other controls. Such controls patently force excessive decentralization of metropolitan areas."
+- https://www.sciencedirect.com/science/article/pii/S0166046204000213
 Theoretical sources
 - 
 Empirical sources
-- 
-  
+- https://www.researchgate.net/profile/Chengri-Ding/publication/271616416_Building_height_restrictionsland_development_and_economic_costs/links/5c9edd04a6fdccd46043a1be/Building-height-restrictions-land-development-and-economic-costs.pdf
+- https://www.sciencedirect.com/science/article/pii/S0166046204000213 - 
 </details>
 
 [Go to solution](/?p=urban-sprawl-2#the-form-of-the-property)
@@ -140,26 +150,36 @@ To alleviate the pressure of on-street parking demand, some cities have chosen t
 #### The internal structure of the property
 Sometimes governments have laws regarding the internal structure of the building. Relevant to urban sprawl is regulations on the minimum room size, the minimum dwelling size, and the minimum amount of rooms per resident. Some of these are done for safety purposes, and others are done to raise the minimum standard of living. Some have complained that "greedy developers" have built too small, which have resulted in increasing the minimum dwelling size required. Unfortunately some people might have been willing to live in that space for the lower price it would have. All of these laws increase the average dwelling size and thus contributes to pressure for outwards expansion leading to more urban sprawl. 
 
+<details>
+  <summary>(Re)sources</summary>
+
+- Donald Shoup - high cost of free parking
+
+</details>
+
 [Go to solution](/?p=urban-sprawl-2#the-internal-structure-of-the-property)
 #### Other
 Governments also regulate the design of buildings, sets standards for quality control, and sets standards for sustainability. While these may be costly additions for developers and there might be first best solutions to some of them, they also are not expected to have important implications for urban sprawl. 
 
-From Brueckner (2011):
-  There  is  a  large  empirical  literature  exploring  the  effect  of  land-use  controls  on  housing  prices.  With  the  model  showing  that  UGBs,  building-height restrictions, other density restrictions, and impact fees all raise the price  p  per unit of housing, the expected effect is in a posi-tive direction. A common recent approach (see, for example, Ihlanfeldt 2007)  is  to  measure  the  intensity  of  land-use  restrictions  using  data  from  a  survey  of  local  governments.  The  survey  indicates  how  many  types  of  restrictions  each  government  has  in  place  (whether  it  has  a  UGB,  levies  impact  fees,  and  so  on),  and  the  intensity  measure  is  a  simple count of the number of restrictions. This count measure is then used as an explanatory variable in a regression in which the dependent variable is a house price measure. The regression includes a variety of other  control  variables.  The  results  from  this  type  of  study  typically  show the expected effect: house prices in a locality rise with an increase in the number of land restrictions in place.   Taking  a  different  approach  to  exploring  the  effects  of  regulation,  Glaeser, Gyourko, and Saks (2005) measured the gap between the price per  square  foot  of  housing  and  construction  cost  per  square  foot  in  different communities. Noting that the two values should be equal in a competitive market, they argue that a large gap indicates the presence of government regulations that inhibit housing supply.
+
+  
+<details>
+  <summary>(Re)sources</summary>
+
+- Donald Shoup - high cost of free parking
+
+</details>
 
 
 ### Historic building preservation
-Historic building preservation is done because old city centres have a historic amenity (koster article). The age of the buildings are considered to be valued by the citizens. It is not exactly clear how much of this value is derived from the age of the building itself or it's historic properties and how much is from specific design choices that could be copied today, but historic areas do have value. However, preserving old buildings also functions as a height restriction since buildings cannot be rebuilt at higher densities to deal with changing demands. This limits both the average dwelling size and the amount of dwellings per land resulting in urban sprawl.
+Historic building preservation is done because old city centres have a historic amenity Koster & Rouwendal ([2017](https://academic.oup.com/ej/article-abstract/127/605/F396/5069470?login=false)). The age of the buildings are considered to be valued by the citizens. It is not exactly clear how much of this value is derived from the age of the building itself or it's historic properties and how much is from specific design choices that could be copied today, but historic areas do have value. However, preserving old buildings also functions as a height restriction since buildings cannot be rebuilt at higher densities to deal with changing demands. This limits both the average dwelling size and the amount of dwellings per land resulting in urban sprawl.
 
 <details>
   <summary>(Re)sources</summary>
   
 Resources
-- https://cooperative-individualism.org/mills-edwin-etal_urban-sprawl-lessons-from-urban-economics-2001.pdf - the comments for arguments
-  - Jan Brueckner in this article focuses on open space amenities, unbalanced finance of infrastructure, and excessive car use. He briefly mentions that another cause of excessive spatial growth is the Tiebout ([1956](http://chula.livocity.com/econ/Micro/Charit/Publicgoods/localpublicgood.pdf))
-  - Edwin Mills: "The government action that most promotes excessive suburbanization is local government land use controls. Both central city and suburban governments impose draconian limits on business and residential density - prohibition of multifamily dwellings, minimum lot size requirements, heights limitations, floor-area- ratio limits, and a panoply of other controls. Such controls patently force excessive decentralization of metropolitan areas."
-Theoretical sources
-- 
+- https://www.researchgate.net/profile/Chengri-Ding/publication/271616416_Building_height_restrictionsland_development_and_economic_costs/links/5c9edd04a6fdccd46043a1be/Building-height-restrictions-land-development-and-economic-costs.pdf
+- https://www.sciencedirect.com/science/article/pii/S0166046204000213 
 Empirical sources
 - 
   
