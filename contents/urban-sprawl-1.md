@@ -32,7 +32,9 @@ This also means that if transport costs are lower than optimal from a transport 
 
 These market failures include the negative external costs of accident risks, congestion, noise and air pollution, infrastructure deterioration, climate change contribution and the costs of providing infrastructure. Government failures include commuting subsidies or solutions to the market failures that do not accurately represent the marginal cost of the externalities. 
 
-This necessarily means that more cars and more driving does not necessarily mean that they lead to urban sprawl. If we are getting more cars and drive more kilometers in them purely because incomes are increasing or because cars are getting cheaper to buy and drive, and they get you places faster, then they do not lead to urban sprawl. In this case they just create outwards expansion that cannot be considered urban sprawl. However, no place in the world has accurately internalised the marginal external costs of driving, so while that is the case, cars do lead to urban sprawl. 
+This necessarily means that more cars and more driving does not necessarily mean that they lead to urban sprawl. If we are getting more cars and drive more kilometers in them purely because incomes are increasing or because cars are getting cheaper to buy and drive, and they get you places faster, then they do not lead to urban sprawl. In this case they just create outwards expansion that cannot be considered urban sprawl. However, no place in the world has accurately internalised the marginal external costs of driving, so while that is the case, cars do lead to urban sprawl. Also, since space is scarce and cars take space, more car driving and parking will lead to higher transport costs (transport costs include the average speed, which goes down with mor cars). 
+
+**In other words, the many market failures and government failures that lead to excessive driving also lead to excessive spatial growth.**
 
 Read more about removing the "excessive" from "excessive car use" [here](/?p=excessive-driving-1).
 
