@@ -139,3 +139,9 @@ Where is the optimal level of development on nature? Unfortunately, this is dyna
 Urban growth boundaries are a tool specifically used to limit spatial growth. The problem with urban growth boundaries is that there is no real way of determining where the boundaries optimally should be. Even if there was a way, those optimal boundaries would change over time, because a long list of dynamic parameters affects where the boundaries should be (Brueckner, 2000). This is another reason to solve the root causes; they tend to be much easier to calculate an optimal solution for. https://www.sciencedirect.com/science/article/pii/S0264837721006256?casa_token=20oYyUq-KBEAAAAA:mLmGGlUMuyL7TXt-ZejT1FG2cMTfGDf316UuHSHKZ8YQluJCRU1A3qhPt_Ip3I51a5sMXVtdYA
 
 This also means that it is difficult to compare the degree of urban sprawl between countries and maybe even regions. Because these may have different levels of population growth, income growth, preferences for suburbs, and transport costs. You can have a very spread out city with all market failures accounted for, but they may be spread out for legimitate reasons. 
+
+## Summary
+
+We need to get rid of or reduce the strictness of these:
+
+We need to create these policies:
