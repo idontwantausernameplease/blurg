@@ -98,7 +98,9 @@ https://devonzuegel.com/post/north-american-vs-japanese-zoning - japanese zoning
 #### The form of the property
 So what is the closest we can get to a first best policy to replace the existing policies? A land value tax would compensate people for reductions in land values through also decreasing their land value taxes. This would reduce the need for governments to protect the value of land and shift their interest towards increasing the value overall in the city. If a government wants to keep some lot size restrictions, building setbacks and height restrictions, there is no reasons they couldn't set these restrictions at a lower value to allow for more flexibility. An alternative way to deal with height externalities is to estimate land value impacts for a given lot at different heights and apply a tax to developers for that. This 3D GIS tool could be made publicly available. This would make developers consider their height choice while securing the maximum height that society is willing to pay. Utilities like trash collection can be consolidated into specific drop-off spots reducing the need to zone for that. Buildings could be set back closer to the roads. 
 
-https://www.mdpi.com/2413-8851/3/1/38 
+https://averyreview.com/issues/39/moneys-in-the-air - air rights
+
+https://www.mdpi.com/2413-8851/3/1/38 - air rights
 
 [Go to problem](/?p=urban-sprawl-1#the-form-of-the-property)
 #### Minimum parking requirements
