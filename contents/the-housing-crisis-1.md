@@ -16,3 +16,10 @@ https://www.sciencedirect.com/science/article/pii/S016604621100072X effect of mi
 
 From Brueckner (2011):
   There  is  a  large  empirical  literature  exploring  the  effect  of  land-use  controls  on  housing  prices.  With  the  model  showing  that  UGBs,  building-height restrictions, other density restrictions, and impact fees all raise the price p per unit of housing, the expected effect is in a positive direction. A common recent approach (see, for example, Ihlanfeldt 2007)  is  to  measure  the  intensity  of  land-use  restrictions  using  data  from  a  survey  of  local  governments.  The  survey  indicates  how  many  types  of  restrictions  each  government  has  in  place  (whether  it  has  a  UGB,  levies  impact  fees,  and  so  on),  and  the  intensity  measure  is  a  simple count of the number of restrictions. This count measure is then used as an explanatory variable in a regression in which the dependent variable is a house price measure. The regression includes a variety of other  control  variables.  The  results  from  this  type  of  study  typically  show the expected effect: house prices in a locality rise with an increase in the number of land restrictions in place.   Taking  a  different  approach  to  exploring  the  effects  of  regulation,  Glaeser, Gyourko, and Saks (2005) measured the gap between the price per  square  foot  of  housing  and  construction  cost  per  square  foot  in  different communities. Noting that the two values should be equal in a competitive market, they argue that a large gap indicates the presence of government regulations that inhibit housing supply. 
+  
+https://www.cdhowe.org/intelligence-memos/edward-glaeser-–-solving-housing-price-crisis-part-i - edward glaeser
+https://www.cdhowe.org/intelligence-memos/edward-glaeser-–-solving-housing-price-crisis-part-ii - edward glaeser
+
+https://www.nber.org/reporter/2009number2/supply-side-housing-markets supply side housing markets
+
+https://www.jstor.org/stable/24773482?seq=18#metadata_info_tab_contents land value taxes guide
