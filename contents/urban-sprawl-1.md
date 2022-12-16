@@ -23,7 +23,7 @@ We talked about the importance of framing the problem not as urban sprawl but as
 ## The problems one by one
 
 ### Excessive car use
-As we saw with the [monocentric city model](/?p=urban-sprawl-0#the-mechanism-of-spatial-growth), if transport costs increase, the expected effect more upwards pressure and less outwards pressure. In other words, a city developed with higher transport costs would develop more compactly unless the city is 100% planned. Even then, who is to say that an urban planner with full authority wouldn't take into consideration the demand of different locations in their plans?
+As we saw with the [monocentric city model](/?p=urban-sprawl-0#the-mechanism-of-spatial-growth), if transport costs increase, the expected effect is more upwards pressure and less outwards pressure. In other words, a city developed with higher transport costs would develop more compactly unless the city is 100% planned. Even then, who is to say that an urban planner with full authority wouldn't take into consideration the demand of different locations in their plans?
 
 ![](https://github.com/impshum/blurg/blob/main/contents/images/transportcosts.png)
 - caption
@@ -100,7 +100,7 @@ Brueckner 2011 and houston.
 
 [Go to solution](/?p=urban-sprawl-2#the-use-of-the-land)
 #### The form of the property
-The zoning regulations of the use of land usually also specifies the form of a building. This includes the type of building (single-family detached housing, duplexes, rowhouses etc.), height restrictions, minimum lot size restrictions, and building setbacks/frontage/garden space. All of these have the purpose to protect land values. A tall building may cast a shadow on a lot of buildings (and according to [Jan Gehl](https://www.goodreads.com/book/show/8556291-cities-for-people), if out of the human scale reduce quality of the streetscape), utilities may need to be able to reach buildings, buildings with high variation in setbacks may provide an unaesthetic lack of uniformity, and small irregular lots can create issues with property rights. However, all these restrictions either increase the average dwelling size or decrease the amount of dwellings per unit of land - both of which adds pressure to outward expansion that can be considered urban sprawl. 
+The zoning regulations of the use of land usually also specifies the form of a building. This includes the type of building (single-family detached housing, duplexes, rowhouses etc.), height restrictions, minimum lot size restrictions, and building setbacks/frontage/garden space. All of these have the purpose to protect land values. A tall building may cast a shadow on a lot of buildings or block views (and according to [Jan Gehl](https://www.goodreads.com/book/show/8556291-cities-for-people), if out of the human scale reduce quality of the streetscape), utilities may need to be able to reach buildings, buildings with high variation in setbacks may provide an unaesthetic lack of uniformity, and small irregular lots can create issues with property rights. However, all these restrictions either increase the average dwelling size or decrease the amount of dwellings per unit of land - both of which adds pressure to outward expansion that can be considered urban sprawl. 
 
 Brueckner ([2011](https://www.jstor.org/stable/j.ctt5hhcnn)) explains using the monocentric city model how height restrictions affect outwards expansion pressure. 
 
@@ -109,9 +109,23 @@ Brueckner ([2011](https://www.jstor.org/stable/j.ctt5hhcnn)) explains using the 
 
 The graph shows how the floor-area-ratio restrictions create outward pressure for expansion. If the city can't build up, it must build out. 
 
+<details>
+  <summary>(Re)sources</summary>
+  
+Resources
+- https://cooperative-individualism.org/mills-edwin-etal_urban-sprawl-lessons-from-urban-economics-2001.pdf
+  - Jan Brueckner in this article focuses on open space amenities, unbalanced finance of infrastructure, and excessive car use. He briefly mentions that another cause of excessive spatial growth is the Tiebout ([1956](http://chula.livocity.com/econ/Micro/Charit/Publicgoods/localpublicgood.pdf))
+  - Edwin Mills: "The government action that most promotes excessive suburbanization is local government land use controls. Both central city and suburban governments impose draconian limits on business and residential density - prohibition of multifamily dwellings, minimum lot size requirements, heights limitations, floor-area- ratio limits, and a panoply of other controls. Such controls patently force excessive decentralization of metropolitan areas."
+Theoretical sources
+- 
+Empirical sources
+- 
+  
+</details>
+
 [Go to solution](/?p=urban-sprawl-2#the-form-of-the-property)
 #### Minimum parking requirements
-To alleviate the pressure of on-street parking demand, some cities have chosen to mandate minimum parking requirements in certain locations. This means that dependent on the assumed parking demand of the building, the government will set a minimum amount of parking spots required for development. This is often done because the buildings otherwise take advantage of the free parking provided by the street, which creates a shortage of parking spots unless they are priced. Similar to building setbacks, this lowers the amount of dwellings per unit of land and means less space for real estate than optimal resulting in outwards expansion pressure that we can call urban sprawl. 
+To alleviate the pressure of on-street parking demand, some cities have chosen to mandate minimum parking requirements in certain locations. This means that dependent on the assumed parking demand of the building, the government will set a minimum amount of parking spots required for development. This is often done because the buildings otherwise take advantage of the free parking provided by the street, which creates a shortage of parking spots unless they are priced. Similar to building setbacks, minimum parking requirements lower the amount of dwellings per unit of land and means less space for real estate than optimal resulting in outwards expansion pressure that we can call urban sprawl. 
 
 <details>
   <summary>(Re)sources</summary>
@@ -135,11 +149,37 @@ From Brueckner (2011):
 ### Historic building preservation
 Historic building preservation is done because old city centres have a historic amenity (koster article). The age of the buildings are considered to be valued by the citizens. It is not exactly clear how much of this value is derived from the age of the building itself or it's historic properties and how much is from specific design choices that could be copied today, but historic areas do have value. However, preserving old buildings also functions as a height restriction since buildings cannot be rebuilt at higher densities to deal with changing demands. This limits both the average dwelling size and the amount of dwellings per land resulting in urban sprawl.
 
+<details>
+  <summary>(Re)sources</summary>
+  
+Resources
+- https://cooperative-individualism.org/mills-edwin-etal_urban-sprawl-lessons-from-urban-economics-2001.pdf - the comments for arguments
+  - Jan Brueckner in this article focuses on open space amenities, unbalanced finance of infrastructure, and excessive car use. He briefly mentions that another cause of excessive spatial growth is the Tiebout ([1956](http://chula.livocity.com/econ/Micro/Charit/Publicgoods/localpublicgood.pdf))
+  - Edwin Mills: "The government action that most promotes excessive suburbanization is local government land use controls. Both central city and suburban governments impose draconian limits on business and residential density - prohibition of multifamily dwellings, minimum lot size requirements, heights limitations, floor-area- ratio limits, and a panoply of other controls. Such controls patently force excessive decentralization of metropolitan areas."
+Theoretical sources
+- 
+Empirical sources
+- 
+  
+</details>
+
 [Go to solution](/?p=urban-sprawl-2#historic-building-preservation)
 ### Mortgage subsidies
 Mortgage subsidies are often a tool used to help people afford housing in a time of difficulty in doing so. Instead of focusing on why that doesn't work, I want to put focus on how it affects urban sprawl. Since most loans in housing are made for single-family detached housing, a housing mortgage subsidy favors purchases of single-family detached houses more than apartments. This means that a demand is induced for single-family detached housing. A type of housing taking more space. At the same time it gives homebuyers more purchasing power to buy bigger homes with larger lots resulting in taking even more space. Both of these create pressure for outwards expansion and thus result in urban sprawl. 
   
 https://www.strongtowns.org/journal/2017/8/15/financing-suburbia-how-government-mortgage-policy-determined-where-youlive
+
+<details>
+  <summary>(Re)sources</summary>
+  
+Resources
+- https://cooperative-individualism.org/mills-edwin-etal_urban-sprawl-lessons-from-urban-economics-2001.pdf
+  - "One such effect arises through the federal tax subsidy to owner-occupied housing, which arises because imputed rental income is untaxed. Harvey Rosen shows that if imputed rents were instead taxed, housing consumption for homeowners would fall by 10 to 20 percent (...) Since the resulting reduction in dwelling sizes would reduce the consumption of land, the spatial sizes of cities would ultimately fall in the absence of the housing tax subsidy."
+  -
+Empirical sources
+- 
+  
+</details>
 
 [Go to solution](/?p=urban-sprawl-2#mortgage-subsidies)
 ### Unbalanced infrastructure finance
