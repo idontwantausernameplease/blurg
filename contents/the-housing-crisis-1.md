@@ -12,4 +12,4 @@ https://blocksandlots.com/wp-content/uploads/2020/02/Do-New-Housing-Units-in-You
 
 https://cooperative-individualism.org/mills-edwin-etal_urban-sprawl-lessons-from-urban-economics-2001.pdf - minimium lot sizes designed to keep poor people out. 
 
-https://www.sciencedirect.com/science/article/pii/S016604621100072X 
+https://www.sciencedirect.com/science/article/pii/S016604621100072X effect of minimum lot sizes on house prices
