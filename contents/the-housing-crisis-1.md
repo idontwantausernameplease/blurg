@@ -11,3 +11,5 @@ https://www.researchgate.net/publication/222648303_The_Effect_of_Local_Land_Use_
 https://blocksandlots.com/wp-content/uploads/2020/02/Do-New-Housing-Units-in-Your-Backyard-Raise-Your-Rents-Xiaodi-Li.pdf
 
 https://cooperative-individualism.org/mills-edwin-etal_urban-sprawl-lessons-from-urban-economics-2001.pdf - minimium lot sizes designed to keep poor people out. 
+
+https://www.sciencedirect.com/science/article/pii/S016604621100072X 
