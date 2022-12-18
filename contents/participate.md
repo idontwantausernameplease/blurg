@@ -1,5 +1,7 @@
 # Participate
 
+I am obsessed with democracy. And apart from believing in the one person one vote over one dollar one vote system, I believe that healthy democracies exist with informed voters. You cannot have informed voters without a public discourse and deep discussions. Making big decisions for society is important, and making the right decision is not possible without any questioning. 
+
 In order to continously improve our knowledge on this topic and to have a space to discuss these topics, I have created a discord server. 
 
 You can find it it [here](https://discord.gg/RrTa9qSE).
