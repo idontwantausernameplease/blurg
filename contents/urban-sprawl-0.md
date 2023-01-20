@@ -43,13 +43,11 @@ Growth happens both upwards and outwards, but some factors skew towards one or t
 
 Jan K. Brueckner is one of the most prominent economists on the subject of urban sprawl. The relationships discussed have been shown with the monocentric city model. One of the core models of urban economics first developed by Alonso, Muth & Mills. Brueckner ([2011](https://www.jstor.org/stable/j.ctt5hhcnn)) illustrates and explains the model quite well: 
 
-<center>
-![third]([https://github.com/impshum/blurg/blob/main/contents/images/thing.jpg?raw=true](https://github.com/idontwantausernameplease/blurg/blob/main/contents/images/population.png "CAPTION")![third]([https://github.com/impshum/blurg/blob/main/contents/images/thing.jpg?raw=true](https://github.com/idontwantausernameplease/blurg/blob/main/contents/images/transportcost.png "CAPTION")![third]([https://github.com/impshum/blurg/blob/main/contents/images/thing.jpg?raw=true](https://github.com/idontwantausernameplease/blurg/blob/main/contents/images/agriculturalrent.png "CAPTION")
-</center>
 
-<p align = "left">
-Monocentric city model. Figures from Brueckner ([2011](https://www.jstor.org/stable/j.ctt5hhcnn)).
-</p>
+<center>
+![third](https://github.com/idontwantausernameplease/blurg/blob/main/contents/images/population.png?raw=true)![third](https://github.com/idontwantausernameplease/blurg/blob/main/contents/images/transportcost.png?raw=true)![third](https://github.com/idontwantausernameplease/blurg/blob/main/contents/images/agriculturalrent.png?raw=true)
+*Monocentric city model. Figures from Brueckner ([2011](https://www.jstor.org/stable/j.ctt5hhcnn)).*
+</center>
 
 The monocentric city model shows rent on the y-axis and distance from the CBD (Central Business District) on the x-axis. The curves represents the rent gradients - the rent that people pay for a unit of land at a certain distance from the CBD. The flat line is the agricultural rent. It's flat because farmers do not get benefits from being close to cities. Rent is quite correlated with urban density, since developers build more housing units when the land is more expensive. 
 
