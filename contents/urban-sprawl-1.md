@@ -25,7 +25,7 @@ We talked about the importance of framing the problem not as urban sprawl but as
 ### Excessive car use
 As we saw with the [monocentric city model](/?p=urban-sprawl-0#the-mechanism-of-spatial-growth), if transport costs increase, the expected effect is more upwards pressure and less outwards pressure. In other words, a city developed with higher transport costs would develop more compactly unless the city is 100% planned. Even then, who is to say that an urban planner with full authority wouldn't take into consideration the demand of different locations in their plans?
 
-![](https://github.com/idontwantausernameplease/blurg/blob/main/contents/images/transportcosts.png?raw=true "CAPTION")
+![](https://github.com/idontwantausernameplease/blurg/blob/main/contents/images/transportcost.png?raw=true "CAPTION")
 
 This also means that if transport costs are lower than optimal from a transport perspective, it has the added consequence of contributing to urban sprawl. Excessive car use is a consequence transport costs that are lower than optimal, and without government intervention, transport costs are lower than optimal due to a list of market failures. The list of market failures and government failures leading to excessive car use is too long to list here, which is why this consequence gets a [whole section](/?p=excessive-driving-1) devoted to talking about the root causes of excessive car use. 
 
