@@ -44,9 +44,9 @@ Growth happens both upwards and outwards, but some factors skew towards one or t
 Jan K. Brueckner is one of the most prominent economists on the subject of urban sprawl. The relationships discussed have been shown with the monocentric city model. One of the core models of urban economics first developed by Alonso, Muth & Mills. Brueckner ([2011](https://www.jstor.org/stable/j.ctt5hhcnn)) illustrates and explains the model quite well: 
 
 <p align="centre">
-  <img src="images/population.png" width="320" />
-  <img src="images/transportcost.png" width="320" /> 
-  <img src="images/agriculturalrent.png" width="320" />
+  <img src="https://github.com/idontwantausernameplease/blurg/blob/main/contents/images/population.png" width="320" />
+  <img src="https://github.com/idontwantausernameplease/blurg/blob/main/contents/images/transportcost.png" width="320" /> 
+  <img src="https://github.com/idontwantausernameplease/blurg/blob/main/contents/images/agriculturalrent.png" width="320" />
 </p>
 <p align = "left">
 Monocentric city model. Figures from Brueckner ([2011](https://www.jstor.org/stable/j.ctt5hhcnn)).
