@@ -23,7 +23,7 @@ We talked about the importance of framing the problem not as urban sprawl but as
 ## The problems one by one
 
 ### Excessive car use
-As we saw with the [monocentric city model](/?p=urban-sprawl-0#the-mechanism-of-spatial-growth), if transport costs increase, the expected effect is more upwards pressure and less outwards pressure. In other words, a city developed with higher transport costs would develop more compactly unless the city is 100% planned. Even then, who is to say that an urban planner with full authority wouldn't take into consideration the demand of different locations in their plans?
+As we saw with the [monocentric city model](/?p=urban-sprawl-0#the-mechanism-of-spatial-growth), if transport costs increase, the expected effect is more upwards pressure and less outwards pressure. In other words, a city developed with higher transport costs would develop more compactly unless the city is 100% planned. Even then, who is to say that an urban planner with full authority wouldn't take into consideration the demand of different locations when planning a city?
 
 ![](https://github.com/idontwantausernameplease/blurg/blob/main/contents/images/transportcost.png?raw=true "CAPTION")
 
@@ -31,7 +31,7 @@ This also means that if transport costs are lower than optimal from a transport 
 
 These market failures include the negative external costs of accident risks, congestion, noise and air pollution, infrastructure deterioration, climate change contribution and the costs of providing infrastructure. Government failures include commuting subsidies or solutions to the market failures that do not accurately represent the marginal cost of the externalities. 
 
-This necessarily means that more cars and more driving does not necessarily mean that they lead to urban sprawl. If we are getting more cars and drive more kilometers in them purely because incomes are increasing or because cars are getting cheaper to buy and drive, and they get you places faster, then they do not lead to urban sprawl. In this case they just create outwards expansion that cannot be considered urban sprawl. However, no place in the world has accurately internalised the marginal external costs of driving, so while that is the case, cars do lead to urban sprawl. Also, since space is scarce and cars take space, more car driving and parking will lead to higher transport costs (transport costs include the average speed, which goes down with mor cars). 
+This necessarily means that more cars and more driving does not necessarily mean that they lead to urban sprawl. If we are getting more cars and drive more kilometers in them purely because incomes are increasing or because cars are getting cheaper to buy and drive, and they get you places faster, then they do not lead to urban sprawl. In this case they just create outwards expansion that cannot be considered urban sprawl. However, no place in the world has accurately internalised the marginal external costs of driving. While that is still the case, cars do lead to urban sprawl. Also, note that as incomes rise and people drive more, it also means that the space available for driving and parking becomes more scarce, which will increase congestion costs, which is only a problem if these costs are not internalised. 
 
 **In other words, the many market failures and government failures that lead to excessive driving also lead to excessive spatial growth.**
 
@@ -40,19 +40,21 @@ Read more about removing the "excessive" from "excessive car use" [here](/?p=exc
 <details>
   <summary>(Re)sources</summary>
   
-Resources
-  
-Theoretical sources
-- Effect of car use on outwards expansion
-  - a
-- Effect of outwards expansion on car use
-  - b
 Empirical sources
-- Effect of car use on outwards expansion
+- Economic theory | Brueckner, J. K. (2000) | [Urban Sprawl: Diagnosis and Remedies](https://www.webofscience.com/wos/woscc/full-record/WOS:000086221200002) | 
+- Review | 
+- Review |
+- Review |
+- Empirical | 
+  - 
   - Glaeser & Kahn (2004)
   - Ostermeijer et al. (2022)
-- Effect of outwards expansion on car use
-  - b
+  - Baum-Snow (2007)
+  - Travesi et al 
+  - Brownstone & Golob
+  - 
+  
+Format: [Name](www.link.com) | Author(s) | Year | "main finding" | F-score/citations | peer reviewed 
   
 </details>
 
