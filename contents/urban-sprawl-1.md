@@ -56,6 +56,8 @@ Empirical sources
   
 Format: [Name](www.link.com) | Author(s) | Year | "main finding" | F-score/citations | peer reviewed 
   
+  https://www.scopus.com/results/results.uri?sort=plf-f&src=s&st1=%28%28underpriced+OR+externalities+OR+undertaxed+OR+uninternalised%29+AND+%28travel*+OR+car+OR+driving+OR+transport+OR+commuting%29%29+AND+%22urban+sprawl%22&sid=5cf512e68c4fd3699f18b2e7b39d5f4a&sot=b&sdt=b&sl=156&s=TITLE-ABS-KEY%28%28%28underpriced+OR+externalities+OR+undertaxed+OR+uninternalised%29+AND+%28travel*+OR+car+OR+driving+OR+transport+OR+commuting%29%29+AND+%22urban+sprawl%22%29&origin=searchbasic&editSaveSearch=&yearFrom=Before+1960&yearTo=Present transport and urban sprawl
+  
 </details>
 
 [Go to solution](/?p=urban-sprawl-2#excessive-car-use) 
@@ -95,24 +97,37 @@ Local and national governments have many rules on what can be built where and ho
 - The internal structure of the property
 - Other
 
-<details>
-  <summary>(Re)sources</summary>
-  
-Resources
-- 
-  
-</details>
-
-
 [Go to solution](/?p=urban-sprawl-2#zoning-and-land-use-regulations)
 #### The use of the land
 Regulating the use of land is done to protect and stabilise the value of land. A factory being built next to a residential area would have consequences for the land values as well as increased external costs coming from the factory through higher exposure to air, noise, and ground pollution. Without compensation for reduced land values and without internalisation of external costs, factories or other uses with nuisance would not be disincentivised to locate in suboptimal areas and we would get suboptimal land use. On the contrary, zoning too strictly can also result in inefficient outcomes since businesses and residences will not always be in their optimal locations. Strict zoning can mean that you cannot have a shop in your house or a restaurant across the street. The effect of this specific part of zoning on urban sprawl is actually not so clear, but too much separation of zones is likely making people more car dependent since the average distance to a destination is higher the more separated uses are, and car dependency is a function of proximity.  
 
-Brueckner 2011 and houston. 
-
 [Go to solution](/?p=urban-sprawl-2#the-use-of-the-land)
 #### The form of the property
 The zoning regulations of the use of land usually also specifies the form of a building. This includes the type of building (single-family detached housing, duplexes, rowhouses etc.), height restrictions, minimum lot size restrictions, and building setbacks/frontage/garden space. All of these have the purpose to protect land values. A tall building may cast a shadow on a lot of buildings or block views (and according to [Jan Gehl](https://www.goodreads.com/book/show/8556291-cities-for-people), if out of the human scale reduce quality of the streetscape), utilities may need to be able to reach buildings, buildings with high variation in setbacks may provide an unaesthetic lack of uniformity, and small irregular lots can create issues with property rights. However, all these restrictions either increase the average dwelling size or decrease the amount of dwellings per unit of land - both of which adds pressure to outward expansion that can be considered urban sprawl. 
+
+[Go to solution](/?p=urban-sprawl-2#the-form-of-the-property)
+#### Minimum parking requirements
+To alleviate the pressure of on-street parking demand, some cities have chosen to mandate minimum parking requirements in certain locations. This means that dependent on the assumed parking demand of the building, the government will set a minimum amount of parking spots required for development. This is often done because the buildings otherwise take advantage of the free parking provided by the street, which creates a shortage of parking spots unless they are priced. Similar to building setbacks, minimum parking requirements lower the amount of dwellings per unit of land and means less space for real estate than optimal resulting in outwards expansion pressure that we can call urban sprawl. 
+
+[Go to solution](/?p=urban-sprawl-2#minimum-parking-requirements)
+#### The internal structure of the property
+Sometimes governments have laws regarding the internal structure of the building. Relevant to urban sprawl is regulations on the minimum room size, the minimum dwelling size, and the minimum amount of rooms per resident. Some of these are done for safety purposes, and others are done to raise the minimum standard of living. Some have complained that "greedy developers" have built too small, which have resulted in increasing the minimum dwelling size required. Unfortunately some people might have been willing to live in that space for the lower price it would have. All of these laws increase the average dwelling size and thus contributes to pressure for outwards expansion leading to more urban sprawl. 
+
+[Go to solution](/?p=urban-sprawl-2#the-internal-structure-of-the-property)
+#### Other
+Governments also regulate the design of buildings, sets standards for quality control, and sets standards for sustainability. While these may be costly additions for developers and there might be first best solutions to some of them, they also are not expected to have important implications for urban sprawl. 
+
+
+
+Zoning: 
+Brueckner 2011 and houston. 
+  
+<details>
+  <summary>(Re)sources</summary>
+
+- Donald Shoup - high cost of free parking
+
+</details>
 
 Brueckner ([2011](https://www.jstor.org/stable/j.ctt5hhcnn)) explains using the monocentric city model how height restrictions affect outwards expansion pressure. 
 
@@ -135,40 +150,9 @@ Empirical sources
 - https://www.sciencedirect.com/science/article/pii/S0166046204000213 - 
 </details>
 
-[Go to solution](/?p=urban-sprawl-2#the-form-of-the-property)
-#### Minimum parking requirements
-To alleviate the pressure of on-street parking demand, some cities have chosen to mandate minimum parking requirements in certain locations. This means that dependent on the assumed parking demand of the building, the government will set a minimum amount of parking spots required for development. This is often done because the buildings otherwise take advantage of the free parking provided by the street, which creates a shortage of parking spots unless they are priced. Similar to building setbacks, minimum parking requirements lower the amount of dwellings per unit of land and means less space for real estate than optimal resulting in outwards expansion pressure that we can call urban sprawl. 
-
-<details>
-  <summary>(Re)sources</summary>
-
-- Donald Shoup - high cost of free parking
-
-</details>
-
-[Go to solution](/?p=urban-sprawl-2#minimum-parking-requirements)
-#### The internal structure of the property
-Sometimes governments have laws regarding the internal structure of the building. Relevant to urban sprawl is regulations on the minimum room size, the minimum dwelling size, and the minimum amount of rooms per resident. Some of these are done for safety purposes, and others are done to raise the minimum standard of living. Some have complained that "greedy developers" have built too small, which have resulted in increasing the minimum dwelling size required. Unfortunately some people might have been willing to live in that space for the lower price it would have. All of these laws increase the average dwelling size and thus contributes to pressure for outwards expansion leading to more urban sprawl. 
-
-<details>
-  <summary>(Re)sources</summary>
-
-- Donald Shoup - high cost of free parking
-
-</details>
-
-[Go to solution](/?p=urban-sprawl-2#the-internal-structure-of-the-property)
-#### Other
-Governments also regulate the design of buildings, sets standards for quality control, and sets standards for sustainability. While these may be costly additions for developers and there might be first best solutions to some of them, they also are not expected to have important implications for urban sprawl. 
-
-
-  
-<details>
-  <summary>(Re)sources</summary>
-
-- Donald Shoup - high cost of free parking
-
-</details>
+https://www.scopus.com/results/results.uri?sort=plf-f&src=s&st1=%28%28height+OR+far+OR+%28floor+area+ratio%29%29+AND+%28restriction*+OR+regulation*+OR+limit%29%29+AND+%22urban+sprawl%22&sid=d2b505d963912f83cdd0eab424c37e7b&sot=b&sdt=b&sl=116&s=TITLE-ABS-KEY%28%28%28height+OR+far+OR+%28floor+area+ratio%29%29+AND+%28restriction*+OR+regulation*+OR+limit%29%29+AND+%22urban+sprawl%22%29&origin=searchbasic&editSaveS=&yearFrom=Before+1960&yearTo=Present - for more sources on height restrictions
+https://www.scopus.com/results/results.uri?sort=plf-f&src=s&st1=%28%28%28land+AND+use%29+OR+zoning+OR+purpose%29+AND+%28restriction*+OR+regulation*+OR+law*+OR+code*%29%29+AND+%22urban+sprawl%22&sid=e34e04a82419e9e4eae39c075ae7f7ce&sot=b&sdt=b&sl=124&s=TITLE-ABS-KEY%28%28%28%28land+AND+use%29+OR+zoning+OR+purpose%29+AND+%28restriction*+OR+regulation*+OR+law*+OR+code*%29%29+AND+%22urban+sprawl%22%29&origin=searchbasic&editSaveSearch=&yearFrom=Before+1960&yearTo=Present - for more sources on land use restrictions
+https://www.scopus.com/results/results.uri?sort=plf-f&src=s&st1=%28%28%28minimum+AND+parking%29+AND+%28restriction*+OR+regulation*+OR+law*+OR+requirement*%29%29+OR+mpr+OR+%22parking+minimums%22+OR+%22minimum+parking+requirements%22+OR+%22minimum+parking%22%29+AND+%22urban+sprawl%22&sid=ce7bb5fb9cb20fcde146c888934e6d62&sot=b&sdt=b&sl=201&s=TITLE-ABS-KEY%28%28%28%28minimum+AND+parking%29+AND+%28restriction*+OR+regulation*+OR+law*+OR+requirement*%29%29+OR+mpr+OR+%22parking+minimums%22+OR+%22minimum+parking+requirements%22+OR+%22minimum+parking%22%29+AND+%22urban+sprawl%22%29&origin=searchbasic&editSaveSearch=&yearFrom=Before+1960&yearTo=Present for more sources on minimum parking requirements
 
 
 ### Historic building preservation
@@ -190,6 +174,8 @@ Empirical sources
   
 </details>
 
+https://www.scopus.com/results/results.uri?sort=plf-f&src=s&st1=%28%28historic+OR+old+OR+heritage%29+AND+%28building+OR+city+OR+built%29+AND+%28preservation+OR+protection+OR+conservation%29%29+AND+%22urban+sprawl%22&sid=c3a3d28a2e7924431e6f1d5f1582d988&sot=b&sdt=b&sl=146&s=TITLE-ABS-KEY%28%28%28historic+OR+old+OR+heritage%29+AND+%28building+OR+city+OR+built%29+AND+%28preservation+OR+protection+OR+conservation%29%29+AND+%22urban+sprawl%22%29&origin=searchbasic&editSaveSearch=&yearFrom=Before+1960&yearTo=Present historic building preservation and sprawl. - since they have preceived positive externalities, it should be possible to value it based on how much the population is willing to pay to preserve it and judged upon the land value. 
+
 [Go to solution](/?p=urban-sprawl-2#historic-building-preservation)
 ### Mortgage subsidies
 Mortgage subsidies are often a tool used to help people afford housing in a time of difficulty in doing so. Instead of focusing on why that doesn't work, I want to put focus on how it affects urban sprawl. Since most loans in housing are made for single-family detached housing, a housing mortgage subsidy favors purchases of single-family detached houses more than apartments. This means that a demand is induced for single-family detached housing. A type of housing taking more space. At the same time it gives homebuyers more purchasing power to buy bigger homes with larger lots resulting in taking even more space. Both of these create pressure for outwards expansion and thus result in urban sprawl. 
@@ -205,12 +191,16 @@ Resources
   -
 Empirical sources
 - 
-  
 </details>
+
+https://www.tandfonline.com/doi/full/10.1080/02673037.2018.1562057 subdies subsidise sprawl
+https://www.scopus.com/results/results.uri?sort=plf-f&src=s&st1=%28%28mortgage+OR+%28home+loan%29%29+AND+%28%28tax+benefit*%29+OR+subsid*+OR+deduction%29%29+AND+%22urban+sprawl%22&sid=ef9f2ddb514582dbdc408ac4a91cf74c&sot=b&sdt=b&sl=106&s=TITLE-ABS-KEY%28%28%28mortgage+OR+%28home+loan%29%29+AND+%28%28tax+benefit*%29+OR+subsid*+OR+deduction%29%29+AND+%22urban+sprawl%22%29&origin=searchbasic&editSaveSearch=&yearFrom=Before+1960&yearTo=Present mortage subsidies and urban sprawl
 
 [Go to solution](/?p=urban-sprawl-2#mortgage-subsidies)
 ### Unbalanced infrastructure finance
 We all pay taxes in the location we live in. These taxes are fairly equal across space. However the costs of the public infrastructure provided is very unequal per citizen across space. In the suburbs, the costs of providing infrastructure is a lot more costly per person than in more urban areas. This is because of economies of scale and cost sharing. This means that suburban dwellers get a big tax discount for the amount public infrastructure needed to sustain them, which induces an inefficient shift towards suburban living. Since suburban living takes more space per person, this creates an outwards expansion pressure that we can call urban sprawl. 
+
+https://www.scopus.com/results/results.uri?sort=plf-f&src=s&st1=%28%28impact+AND+fee*%29+OR+%28infrastructure+AND+financ*%29%29+AND+%22urban+sprawl%22&sid=e7e399e170dac6388204464f3a721730&sot=b&sdt=b&sl=85&s=TITLE-ABS-KEY%28%28%28impact+AND+fee*%29+OR+%28infrastructure+AND+financ*%29%29+AND+%22urban+sprawl%22%29&origin=searchbasic&editSaveSearch=&yearFrom=Before+1960&yearTo=Present search results for unbalanced infrastructure finance and urban sprawl
 
 [Go to solution](/?p=urban-sprawl-2#unbalanced-infrastructure-finance)
 ### Open space and nature externalities
