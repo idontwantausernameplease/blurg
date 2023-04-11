@@ -34,3 +34,11 @@ https://www.cdhowe.org/intelligence-memos/edward-glaeser-–-solving-housing-pri
 https://www.nber.org/reporter/2009number2/supply-side-housing-markets supply side housing markets
 
 https://www.jstor.org/stable/24773482?seq=18#metadata_info_tab_contents land value taxes guide
+
+Mortgage subsidies
+Based on the provided research results, there is evidence that mortgage subsidies may make housing less affordable. Hendershortt and Shilling (1989) suggest that lower mortgage rates, which are often subsidized, can raise homeownership and the quantity of housing demanded by homeowners, but can also raise interest rates generally, partially offsetting the ownership subsidy [36]. Heylen (2013) found that mortgage tax relief can enhance housing demand, which might increase prices to a large extent when price elasticity of housing demand is low, and that about 75% of the subsidy is reflected in house prices [37]. Krolage and Krolage (2022) suggest that most empirical evidence indicates that such tax subsidies do not increase the homeownership rate and are passed-through into property prices [38].
+
+Land speculation:
+Supply-Side Speculation in the Housing Market. The University of Chicago Press Journals, 131(5), 1987-2023. https://doi.org/10.1086/693008  Based on the provided research results, there is evidence that land speculation may make housing less affordable. Nathanson and Zwick (2018) suggest that speculation in the land market can intensify the speculation that causes booms and busts in house prices, challenging the standard intuition that in cities where construction is easier, house price booms are smaller [39]. This can make housing less affordable for potential buyers. Additionally, Zwick (2017) argues that supply-side speculation in the housing market can lead to a reduction in the supply of housing, which can drive up prices and make housing less affordable [40].
+https://www.scirp.org/journal/paperinformation.aspx?paperid=118668 
+
