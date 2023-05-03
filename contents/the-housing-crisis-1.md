@@ -35,6 +35,8 @@ https://www.nber.org/reporter/2009number2/supply-side-housing-markets supply sid
 
 https://www.jstor.org/stable/24773482?seq=18#metadata_info_tab_contents land value taxes guide
 
+https://www.scopus.com/record/display.uri?eid=2-s2.0-85109070838&origin=resultslist&sort=plf-f&cite=2-s2.0-85054603485&src=s&imp=t&sid=f198aa08169a3e42cfa832df15ed9495&sot=cite&sdt=a&sl=0&relpos=42&citeCnt=3&searchTerm= - locational demand as a cause
+
 Mortgage subsidies
 Based on the provided research results, there is evidence that mortgage subsidies may make housing less affordable. Hendershortt and Shilling (1989) suggest that lower mortgage rates, which are often subsidized, can raise homeownership and the quantity of housing demanded by homeowners, but can also raise interest rates generally, partially offsetting the ownership subsidy [36]. Heylen (2013) found that mortgage tax relief can enhance housing demand, which might increase prices to a large extent when price elasticity of housing demand is low, and that about 75% of the subsidy is reflected in house prices [37]. Krolage and Krolage (2022) suggest that most empirical evidence indicates that such tax subsidies do not increase the homeownership rate and are passed-through into property prices [38].
 
