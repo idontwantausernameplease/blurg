@@ -42,3 +42,5 @@ Land speculation:
 Supply-Side Speculation in the Housing Market. The University of Chicago Press Journals, 131(5), 1987-2023. https://doi.org/10.1086/693008  Based on the provided research results, there is evidence that land speculation may make housing less affordable. Nathanson and Zwick (2018) suggest that speculation in the land market can intensify the speculation that causes booms and busts in house prices, challenging the standard intuition that in cities where construction is easier, house price booms are smaller [39]. This can make housing less affordable for potential buyers. Additionally, Zwick (2017) argues that supply-side speculation in the housing market can lead to a reduction in the supply of housing, which can drive up prices and make housing less affordable [40].
 https://www.scirp.org/journal/paperinformation.aspx?paperid=118668 
 
+https://www.scopus.com/record/display.uri?eid=2-s2.0-85147509791&origin=resultslist&sort=plf-f&cite=2-s2.0-85054603485&src=s&imp=t&sid=f198aa08169a3e42cfa832df15ed9495&sot=cite&sdt=a&sl=0&relpos=7&citeCnt=0&searchTerm= 
+
