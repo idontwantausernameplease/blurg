@@ -126,11 +126,11 @@ if (clear_session_data) {
 }
 
 let p = url_params.get('p');
-let page = 'contents/partials/index.md';
+let page = 'contents/home.md';
 
 if (!p) {
   p = 'index';
-  page = 'contents/partials/index.md';
+  page = 'contents/home.md';
 } else if (p && p != 'blurgs') {
   page = `contents/${p}.md`;
 } else if (p && p == 'blurgs') {
