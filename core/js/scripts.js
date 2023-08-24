@@ -7,10 +7,6 @@ const coffee_content = document.getElementById('coffee_content');
 const clear_session_data = document.getElementById('clear_session_data');
 const edit_button = document.getElementById('edit_button');
 
-var converter = new showdown.Converter({
-  metadata: false,
-  tables: true
-});
 
 showdown.extension('remove_p', function() {
   return [{
@@ -24,6 +20,25 @@ showdown.extension('remove_p', function() {
       }
     }
   }];
+});
+
+showdown.extension("remove-p-from-img", function() {
+  return [{
+    type: "output",
+    filter: function(text) {
+      text = text.replace(
+        '/<p>((?:.(?!p>))*?)(<a[^>]*>)?\s*(<img[^>]+>)(<\/a>)?(.*?)<\/p>/is',
+        ""
+      );
+      return text;
+    },
+  }, ];
+});
+
+var converter = new showdown.Converter({
+  metadata: false,
+  tables: true,
+  extensions: ["remove-p-from-img"]
 });
 
 var converter_p = new showdown.Converter({
@@ -49,6 +64,31 @@ const get_data = async (url, json = true) => {
     console.error(`ERROR: ${err}`);
   }
 }
+
+
+const add_captions = () => {
+  var elements = document.querySelectorAll("#page_content img");
+  Array.prototype.forEach.call(elements, function(el, i) {
+    const caption = document.createElement('figcaption');
+    var node = document.createTextNode(el.getAttribute("title"));
+    caption.appendChild(node);
+    const wrapper = document.createElement('figure');
+    wrapper.classList.add('image');
+    if (el.getAttribute("alt") == 'half') {
+      wrapper.classList.add('half');
+    }
+    if (el.getAttribute("alt") == 'third') {
+      wrapper.classList.add('third');
+    }
+    el.parentNode.insertBefore(wrapper, el);
+    el.parentNode.removeChild(el);
+    wrapper.appendChild(el);
+    if (el.getAttribute("title")) {
+      wrapper.appendChild(caption);
+    }
+  });
+}
+
 
 const get_blurgs = () => {
   window.setTimeout(() => {
@@ -141,7 +181,26 @@ const add_page_content = (res) => {
   page_content.appendChild(node);
   page_content.parentNode.style.display = 'block'
   page_content.parentNode.classList.add('animate__animated', 'animate__fadeIn', 'animate__fast');
+
+  let charts = document.getElementsByTagName('chart');
+  for (let i = 0; i < charts.length; i++) {
+    let chart_name = charts[i].getAttribute('name');
+    let chart_width = charts[i].getAttribute('width');
+
+    get_data(`https://raw.githubusercontent.com/${github_username}/blurg/main/embeds/${chart_name}.html`, false)
+      .then((res) => {
+        let chart_html = `<div class="iframe-container"><iframe src="about:blank" style="width: ${chart_width} !important;"></iframe></div>`;
+        charts[i].innerHTML = chart_html;
+        let chart_frame = charts[i].getElementsByTagName('iframe')[0];
+        chart_frame.contentWindow.document.open();
+        chart_frame.contentWindow.document.write(res);
+        chart_frame.contentWindow.document.close();
+      });
+  }
+
+  add_captions();
 }
+
 
 if (sessionStorage.getItem('head_content')) {
   var res = JSON.parse(sessionStorage.getItem('head_content'))
@@ -171,18 +230,19 @@ if (sessionStorage.getItem('coffee_content')) {
 } else {
   get_data(`https://raw.githubusercontent.com/${github_username}/blurg/main/contents/partials/coffee.md`, false)
     .then((res) => {
-      add_coffee_content(res);
+      add_coffee_content(res)
       sessionStorage.setItem('coffee_content', JSON.stringify(res));
     });
 }
 
 if (sessionStorage.getItem(page)) {
   var res = JSON.parse(sessionStorage.getItem(page));
-  add_page_content(res);
+  add_page_content(res)
 } else {
   get_data(`https://raw.githubusercontent.com/${github_username}/blurg/main/${page}`, false)
     .then((res) => {
-      add_page_content(res);
+      add_page_content(res)
+
       sessionStorage.setItem(page, JSON.stringify(res));
     });
 }
