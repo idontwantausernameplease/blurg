@@ -82,7 +82,7 @@ $current_url.= $_SERVER['REQUEST_URI'];
           </div>
       </div>
       <hr>
-      <div id="menu_content" class="is-centered">
+      <div id="menu_content">
 
         <?php
         if ($config->show_house) { ?>
@@ -92,6 +92,7 @@ $current_url.= $_SERVER['REQUEST_URI'];
            <a href="/"><img class='home' src='/core/img/home.png' alt='home'></a>
          <?php  } ?>
         <?php }  ?>
+        <span></span>
       </div>
 
       <div id="clear_session_data"></div>
