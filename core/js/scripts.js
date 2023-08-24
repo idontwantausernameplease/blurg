@@ -169,12 +169,6 @@ const add_menu_content = (res) => {
   menu_content.appendChild(node);
 }
 
-const add_coffee_content = (res) => {
-  let node = document.createElement('div');
-  node.innerHTML = converter.makeHtml(res);
-  coffee_content.appendChild(node);
-}
-
 const add_page_content = (res) => {
   let node = document.createElement('div');
   node.innerHTML = converter.makeHtml(res);
@@ -221,17 +215,6 @@ if (sessionStorage.getItem('menu_content')) {
     .then((res) => {
       add_menu_content(res);
       sessionStorage.setItem('menu_content', JSON.stringify(res));
-    });
-}
-
-if (sessionStorage.getItem('coffee_content')) {
-  var res = JSON.parse(sessionStorage.getItem('coffee_content'))
-  add_coffee_content(res);
-} else {
-  get_data(`https://raw.githubusercontent.com/${github_username}/blurg/main/contents/partials/coffee.md`, false)
-    .then((res) => {
-      add_coffee_content(res)
-      sessionStorage.setItem('coffee_content', JSON.stringify(res));
     });
 }
 

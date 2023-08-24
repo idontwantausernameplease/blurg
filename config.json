@@ -5,7 +5,5 @@
   "short_description": "Solving big challenges in cities",
   "theme": "light",
   "maintenance_mode": false,
-  "show_house": false,
-  "show_coffee": false,
-  "show_ads": false
+  "show_house": false
 }

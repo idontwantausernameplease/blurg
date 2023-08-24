@@ -105,19 +105,6 @@ $current_url.= $_SERVER['REQUEST_URI'];
       <button id="edit_button" class="animate__animated animate__fadeIn animate__delay-1s">Edit page</button>
     </div>
 
-    <?php if ($config->show_coffee) { ?>
-      <div class="container animate__animated animate__fadeIn animate__delay-1s">
-        <article id="coffee_content"></article>
-        <a class="coffee" href="https://www.buymeacoffee.com/<?php echo $buymeacoffee_username; ?>" target="_blank"><img src="/core/img/coffee.webp" alt="Buy Me A Coffee"></a>
-      </div>
-    <?php } ?>
-
-    <?php if ($config->show_ads) { ?>
-      <div id="ads" class="container animate__animated animate__fadeIn animate__faster animate__delay-1s">
-        <img class="ad" src="/core/img/ad.jpg" alt="ad">
-      </div>
-    <?php  } ?>
-
     <div id="footer" class="footer animate__animated animate__fadeIn animate__faster animate__delay-2s">
       Made by <a href="https://recycledrobot.co.uk">Recycled Robot</a> with a keyboard<br>
     </div>
