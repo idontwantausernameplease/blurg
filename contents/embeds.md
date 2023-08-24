@@ -1,3 +1,1 @@
-<div class="iframe-container">
-  <iframe src="/embeds/transport-costs.html"></iframe>
-</div>
+<chart name="transport-costs" width="100%"></chart>
