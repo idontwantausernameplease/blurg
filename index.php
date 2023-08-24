@@ -73,27 +73,25 @@ $current_url.= $_SERVER['REQUEST_URI'];
     <header id="header" class="container">
       <div class="flex-container">
           <div class="flex-left">
-              <img id='logo' class='logo' src='/core/img/logo.png' alt="<?php echo $config->title; ?>">
+              <a href="/"><img id='logo' class='logo' src='/core/img/logo.png' alt="<?php echo $config->title; ?>"></a>
           </div>
           <div class="flex-right">
             <div class="title">
-
               <div id="head_content"></div>
-              <hr>
-              <div id="menu_content">
-
-                <?php
-                if ($config->show_house) { ?>
-                  <?php if (isset($_GET["preview"])) { ?>
-                   <a href="/?preview=<?php echo $_GET["preview"]; ?>"><img class='home' src='/core/img/home.webp' alt="home"></a>
-                 <?php  } else { ?>
-                   <a href="/"><img class='home' src='/core/img/home.png' alt='home'></a>
-                 <?php  } ?>
-                <?php }  ?>
-
-              </div>
             </div>
           </div>
+      </div>
+      <hr>
+      <div id="menu_content" class="is-centered">
+
+        <?php
+        if ($config->show_house) { ?>
+          <?php if (isset($_GET["preview"])) { ?>
+           <a href="/?preview=<?php echo $_GET["preview"]; ?>"><img class='home' src='/core/img/home.webp' alt="home"></a>
+         <?php  } else { ?>
+           <a href="/"><img class='home' src='/core/img/home.png' alt='home'></a>
+         <?php  } ?>
+        <?php }  ?>
       </div>
 
       <div id="clear_session_data"></div>

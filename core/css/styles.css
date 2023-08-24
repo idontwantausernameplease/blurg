@@ -82,6 +82,10 @@ hr {
   border-radius: 5px;
 }
 
+.title h1 {
+  font-size: 2.8rem;
+}
+
 .title h2 {
   font-size: 1.2rem;
   margin-top: -.5rem;
@@ -122,10 +126,17 @@ img.ad {
   color: inherit;
 }
 
-.title a:hover {
+#menu_content a {
+  font-size: 1.3rem;
+  margin-right: .35rem;
+  transition: color: .3s;
+  color: inherit;
+}
+
+#menu_content a:hover {
   transition: color: .3s;
   text-decoration: none;
-  color: #f5f5f5;
+  color: #0a0a0a;
 }
 
 img.home {
@@ -142,7 +153,8 @@ button.flex {
 
 #menu_content {
   overflow-x: auto;
-  margin-top: -12px;
+  margin-top: 6px;
+  margin-bottom: -16px;
 }
 
 #menu_content div,
