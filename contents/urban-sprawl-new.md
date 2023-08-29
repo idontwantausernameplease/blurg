@@ -6,17 +6,10 @@
 
 <chart name="height-restrictions" width="80%"></chat>
 
-<html>
-<head>
-    <title>Combined Plots</title>
-</head>
-<body>
-    <table style=width:"100%">
-        <tr>
-            <chart name="population" width="33%"></chat>
-            <chart name="transport-costs" width="33%"></chat>
-            <chart name="income" width="33%"></chat>
-        </tr>
-    </table>
-</body>
-</html>
+<table style="width:100%;">
+    <tr>
+        <td style="width:33%;"><chart name="population" width="100%"></chart></td>
+        <td style="width:33%;"><chart name="transport-costs" width="100%"></chart></td>
+        <td style="width:33%;"><chart name="income" width="100%"></chart></td>
+    </tr>
+</table>
