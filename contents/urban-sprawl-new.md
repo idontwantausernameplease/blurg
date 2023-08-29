@@ -8,8 +8,8 @@
 
 <table style="width:100%;">
     <tr>
-        <td style="width:33%;"><chart name="population" width="100%"></chart></td>
-        <td style="width:33%;"><chart name="transport-costs" width="100%"></chart></td>
-        <td style="width:33%;"><chart name="income" width="100%"></chart></td>
+        <td style="width:33%; height:650px;"><chart name="population" width="100%"></chart></td>
+        <td style="width:33%; height:650px;"><chart name="transport-costs" width="100%"></chart></td>
+        <td style="width:33%; height:650px;"><chart name="income" width="100%"></chart></td>
     </tr>
 </table>
