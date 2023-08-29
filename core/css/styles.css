@@ -126,29 +126,6 @@ img.ad {
   color: inherit;
 }
 
-#menu_content div p {
-  text-align: justify;
-}
-
-#menu_content span {
-  background-color: red;
-  width: 100%;
-  height: 1em;
-  display: inline-block;
-}
-
-#menu_content a {
-  font-size: 1.3rem;
-  transition: color: .3s;
-  color: inherit;
-}
-
-#menu_content a:hover {
-  transition: color: .3s;
-  text-decoration: none;
-  color: #0a0a0a;
-}
-
 img.home {
   position: relative;
   top: 1px;
@@ -165,6 +142,30 @@ button.flex {
   overflow-x: auto;
   margin-top: 6px;
   margin-bottom: -16px;
+  overflow: hidden;
+}
+
+#menu_content p {
+  text-align: justify;
+  margin-bottom: -16px !important;
+
+  &:after {
+    content: "";
+    display: inline-block;
+    width: 100%;
+  }
+}
+
+#menu_content a {
+  font-size: 1.3rem;
+  transition: color: .3s;
+  color: inherit;
+}
+
+#menu_content a:hover {
+  transition: color: .3s;
+  text-decoration: none;
+  color: #0a0a0a;
 }
 
 #edit_button {

@@ -92,7 +92,7 @@ $current_url.= $_SERVER['REQUEST_URI'];
            <a href="/"><img class='home' src='/core/img/home.png' alt='home'></a>
          <?php  } ?>
         <?php }  ?>
-        <span></span>
+        
       </div>
 
       <div id="clear_session_data"></div>
