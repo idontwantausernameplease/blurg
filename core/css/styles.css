@@ -141,13 +141,15 @@ button.flex {
 #menu_content {
   overflow-x: auto;
   margin-top: 6px;
-  margin-bottom: -16px;
+  margin-bottom: -14px;
   overflow: hidden;
 }
 
 #menu_content p {
+  padding-right: 10px;
+  padding-left: 10px;
   text-align: justify;
-  margin-bottom: -16px !important;
+  margin-bottom: -14px !important;
 
   &:after {
     content: "";
@@ -157,7 +159,7 @@ button.flex {
 }
 
 #menu_content a {
-  font-size: 1.3rem;
+  font-size: 1.25rem;
   transition: color: .3s;
   color: inherit;
 }
