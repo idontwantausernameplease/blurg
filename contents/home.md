@@ -7,19 +7,8 @@ I am a researcher of spatial & transport economics. In this collaborative series
 
 ### by [Victor Mayland Nielsen](/?p=victor-mayland-nielsen):
 
-- [Introduction](/?p=introduction)
-- The challenge of urban sprawl:
-  - Part I: [The problem and the remedy](/?p=urban-sprawl)
-  - Part II: [The remedy revisited](/?p=remedy-revisited)
-  - Part III: [](-)
-- The challenge of the housing crisis:
-  - Part I: [The problem and the remedy](/?p=the-housing-crisis)
-  - Part II: [The remedy revisited](-)
-  - Part III: [](-)
-- The challenge of excessive car use:
-  - Part I: [The problem and the remedy](/?p=excessive-car-use)
-  - Part II: [The remedy revisited](-)
-  - Part III: [](-)
-
+- Symptom I: [Urban sprawl](/?p=urban-sprawl)
+- Symptom II: Excessive car use (coming soon)
+- Symptom III: Housing affordability (coming soon)
 
 [Interactive graphs](/?p=urban-sprawl-new)
