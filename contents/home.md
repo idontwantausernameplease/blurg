@@ -22,3 +22,4 @@ I am a researcher of spatial & transport economics. In this collaborative series
 - Symptom I: [Urban sprawl](/?p=urban-sprawl)
 - Symptom II: Excessive car use (coming soon)
 - Symptom III: Housing affordability (coming soon)
+- Symptom IV: Underinvestment in architecture (coming soon)
