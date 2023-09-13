@@ -27,6 +27,7 @@ To be honest, despite growing up in the suburbs, I never really understood subur
 
 <details>
   <summary>But wont we just end up expanding onto all farmland and agricultural land?</summary>
+  
   **Won't populations keep rising?** According to Hans Rosling, [population growth rate will eventually reach zero](https://www.ted.com/talks/hans_rosling_global_population_growth_box_by_box?language=en). This is due to the reduced birthrate as a country develops. In developed countries the growth rate is already close to 0 and most growth comes from immigration.
   
   **Won't we keep expanding onto agricultural land?** For this, I will cite Brueckner ([2000](https://ideas.repec.org/a/sae/inrsre/v23y2000i2p160-171.html)): "Concerns about loss of “scarce” farmland are also misplaced. Because the value of farm output is fully reflected in the amount that agricultural users are willing to pay for the land, a successful bid by developers means that society values the houses and other structures built on the land more than the farm output that is forgone. If farmland became truly scarce and in need of preservation, its selling price would be high, making the land resistant to urban encroachment. With only a tiny fraction of the U.S. land area occupied by cities, farmland scarcity is not a problem currently, nor is it likely to become a problem in the future."
@@ -99,6 +100,7 @@ The model makes you able to plot the urban density (people per square kilometer)
 
 <details>
   <summary>Why does this happen?</summary>
+  
   ### Population
   
   As demand for housing increases in cities, more opportunities become profitable for developers. This causes land values to increase. In the outskirts of the city, this means that more land will outbid the value of farmland. In the centre, it means that some buildings are no longer profitable enough for the land they sit on, so taller buildings are needed for the land to be profitable (an incentive that would be higher with land value taxes, but more on that in my article about housing prices). 
