@@ -1,19 +1,12 @@
-# Our cities are a bit like our bodies
+# How our cities are a bit like our bodies
 
-- Their complexity makes it difficult to gain a full understanding of them
-- We continuously get better at improving their function
-- Medication tends to have side effects, and removing root causes tends to not
+Much like our bodies, cities are complex organisms; vibrant but not immune to disease. The trick, though, is to not just reach for the nearest “pill” to quell the symptoms, which often carries side effects, but to dissect the problems methodically, identifying and addressing the very mold that causes them. 
 
-We often look at diseases in terms of finding the right medication rather than preventing them from happening. Our cities have a lot of headaches, and we tend to prescribe them costly and side-effect-heavy pills despite knowing the mold that causes the headaches. Why do we do this? Because unlike with our bodies, the solution to the diseases that our cities get needs public appeal. This is my attempt to appeal to the public to understand why the solutions to our problems are not always the most sexy ones. 
+In the world of medicine as in urban policy, there is a tendency to reach for "medicines" — immediate solutions to pressing issues. However, much like an adept physician, we prefer going from administering medicine to identifying the molds or the root causes, fostering a prevention-first approach. Because, when we remove the mold, we not only alleviate the symptoms but we sidestep potential side effects that often accompany quick fixes. For example, we can solve urban sprawl through urban growth boundaries and contribute to housing supply problems or we can delve deeper into the reasons why cities have spread out more than optimal and find out if any of these are mold.
 
-A subsidy for housing sounds a lot better than a land value tax and a subsidy for renewable energy consumption sounds a lot better than a tax on fossil fuels. But urban planners and urban economists understand that this is not how it works. In order to create change, we need to bridge this knowledge gap, and it helps a lot if the public understands it as well. 
+The difference between the two worlds is that in medicine, it can be difficult to discover the mold, but it is easy for the public to tell the difference between medicine and prevention, but in urban economics, we know the mold, but it is hard for the public to tell the difference between mold and medicine. A subsidy for renewable energy sounds a lot better than a tax on fossil fuels, but an environmental economist might tell you otherwise. 
 
-In medicine, we have gone from cutting off legs to antibiotics and from dying from viruses to being vaccinated. Improvement is when we have less disease and fewer side effects. Improvement in urban policy is the same. Finding policies that create the least side effects while reducing problems the most. 
-
-## Misconception 1: Symptoms are not the disease
-
-## Misconception 2: 
-
+I need your help. I believe in democracy, so starting this conversation is essential in bridging this knowledge gap. This also means that I have to strike the balance between conveying scientific information while making it accessible. In order to avoid spreading misinformation or exaggerated confidence, I want you to help me by holding me accountable whenever you see something wrong or misleading, so we can discuss it together. You can do this by clicking the "edit page" button in the top. I aim to add FAQ's as a separate page or in line of the text, when applicable. 
 
 I am a researcher of spatial & transport economics. In this collaborative series, I develop a systematic guide on how to solve the biggest challenges cities face. 
 
