@@ -19,21 +19,21 @@ A good way to explain how cities expand is through the monocentric city model. A
 <details>
   <summary>How does the monocentric city model work?</summary>
   The monocentric city model, developed by Alonso, Muth & Mills, is a fundamental concept in urban economics that provides insight into the spatial structure of cities. Here's how it works, along with its critiques and defenses:
-    
+  
   ### How It Works
-    
+  
   The monocentric city model assumes that a city has a single center (usually the Central Business District, or CBD) to which all residents commute. The basic idea is as follows:
-    
+  
   1. **Central Business District:** The CBD is where most jobs and activities are located.
   2. **Residential location choice:** As one moves away from the CBD, housing costs decrease, but commuting costs increase. People choose their residential location based on a trade-off between these two factors.
   3. **Effects of Changes:** By changing factors like population, transport costs, or income, we can illustrate how the urban border and distributions of urban density, house prices, floor-area-ratios, and housing consumption will shift.
-    
+
   This simple model has been widely used to explain real-world urban patterns, like why housing costs more in city centers. 
-    
+
   The specific model used in these interactive graphs is written in R and is available on Github. 
-    
+
   ### Critique of the Monocentric City Model
-    
+
   Despite its widespread use, the monocentric city model has several critiques:
     
   1. **Monocentricity:** It assumes a single center and uniform transportation costs, ignoring the complexity of modern urban landscapes with multiple centers, and scattered jobs. 
