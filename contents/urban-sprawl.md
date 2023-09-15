@@ -1,29 +1,8 @@
-# Urban Sprawl
+# The symptom of urban sprawl
 
-## The similarities between our bodies and our cities
+One big symptom that a lot of cities face is urban sprawl. Urban sprawl has been criticised for making people more car-dependent (which has it's own problems - see [page about excessive car use](/?p=excessive-car-use)), for making public services more expensive, and for making citizens more unhealthy. However, urban sprawl is not to be confused with mere outwards expansion of cities. 
 
-[Add picture of a person in a house with mold looking sick taking pills]
-
-Imagine you get a daily horrible headache caused by mold in your apartment, but instead of finding and removing the mold, you go to a doctor and get prescribed some strong pain-killers, which removes the headache while you keep taking them, but with a list of side effects. 
-
-[Add picture of a city, where the sprawl is a headache]
-
-Just like our bodies, cities can be subject to different kinds mold which each create their own symptoms. But cities tend to use medication with side effects rather than resolving the root causes - even when we have identified the root causes and have solutions to get rid of them. This gap between knowledge and action is what these articles aims to bridge. 
-
-If Medical Science is the study of the health of our bodies, Urban Economics is the study of the health of our cities. Neither Medical Science or Urban Economics claims to have all the answers. In fact, they quite often need help from specialists in different areas, who all contribute to the knowledge that helps doctors of bodies and cities make decisions. We all work together with the same goal: to improve the long term thriving of people on this planet. 
-
-[Add picture of a scale with supply and demand][Add picture of a scale with supply and demand and market failures and government failures putting it out of balance]
-
-<details>
-  <summary>But isn't economics all about benefitting corporations and making the rich richer?</summary>
-  Capitalism and economics are not the same thing. Economics is about balance. About getting the most out of the least in a world with scarce resources such as land. Ideally, the balance would just be determined by the supply and demand of land, and you would automatically land on that spot through Adam Smith's “invisible hand”, but we discovered about 100 years ago, that market failures exist, and without solving these, we end up worse off.
-</details>
-
-## Urban sprawl as a symptom
-
-One big symptom that a lot of cities face is urban sprawl. Urban sprawl has been criticised for making people more car-dependent (which has it's own problems LINK TO OTHER ARTICLE), for making public services more expensive, and for making citizens more unhealthy. However, urban sprawl is not to be confused with mere outwards expansion of cities. 
-
-To be honest, despite growing up in the suburbs, I never really understood suburban living, but I respect that people do, and I want them to have the freedom to spend those hours commuting, maintaining their properties and seeing the same people every day. Jokes aside, despite my personal preference, there is nothing wrong with cities expanding outwards. Cities expand outwards when populations increase, faster transport is invented, higher incomes are earned or people change preferences. Without expansion we are depriving ourselves from something we want: space - even if you live in an apartment. So cities expanding is like puberty. It’s a natural process that involves some changes that we accept. 
+To be honest, despite growing up in the suburbs, I never really understood suburban living, but I respect that people do, and I want them to have the freedom to spend those hours commuting, maintaining their properties and seeing the same people every day. Despite my personal preference, there is nothing wrong with cities expanding outwards. Cities expand outwards when populations increase, faster transport is invented, higher incomes are earned or people change preferences. Without expansion we are depriving ourselves from something we want: Space - even if you live in an apartment. So cities expanding is like puberty. It’s a natural process that involves some changes that we accept. 
 
 <details>
   <summary>But wont we just end up expanding onto all farmland and agricultural land?</summary>
@@ -32,7 +11,7 @@ To be honest, despite growing up in the suburbs, I never really understood subur
   
   **Won't we keep expanding onto agricultural land?** For this, I will cite Brueckner ([2000](https://ideas.repec.org/a/sae/inrsre/v23y2000i2p160-171.html)): "Concerns about loss of “scarce” farmland are also misplaced. Because the value of farm output is fully reflected in the amount that agricultural users are willing to pay for the land, a successful bid by developers means that society values the houses and other structures built on the land more than the farm output that is forgone. If farmland became truly scarce and in need of preservation, its selling price would be high, making the land resistant to urban encroachment. With only a tiny fraction of the U.S. land area occupied by cities, farmland scarcity is not a problem currently, nor is it likely to become a problem in the future."
   
-  **Won't we keep expanding onto nature?** For now, this is mostly a democratic process of nature reservation. This part is a much less developed field in economics, but there are fields of nature ressource economics, environmental economics, and climate change economics. These fields develop models to help determine the value of nature and it's worth to us. This can help us create the right balance of nature reservation and development. Since I myself believe that nature is essential to human survival in the long run, I think these models will become an essential part of international politics and spatial policy making. Eventually, we could be able to put a value to nature, which can help us decide where to build and keep a reasonable balance. One must also recognise that sometimes building on nature *is* the more sustainable choice, since building on another plot of land further away would lead to citizens living with less sustainable behaviour such as driving a car for more kilometers.
+  **Won't we keep expanding onto nature?** For now, this is mostly a democratic process of nature reservation. This part is a much less developed field in economics, but there are fields of nature ressource economics, environmental economics, and climate change economics. These fields develop models to help determine the value of nature and it's worth to us. This can help us create the right balance of nature reservation and development. Nature is essential to human survival in the long run, so I think these models will become an essential part of international politics and spatial policy making. Eventually, we could be able to put a value to nature, which can help us decide where to build and keep a reasonable balance. One must also recognise that sometimes building on nature *is* the more sustainable choice, since building on another plot of land further away would lead to citizens living with less sustainable behaviour such as driving a car for more kilometers.
 </details>
 
 A good way to explain how cities expand is through the monocentric city model. All you need to know is that it's an economic model that crudely models citizen behaviour in a market of housing around a city centre that everyone commutes to, but I will add more details below for the fellow nerds. 
@@ -105,19 +84,14 @@ The model makes you able to plot the urban density (people per square kilometer)
   
   As demand for housing increases in cities, more opportunities become profitable for developers. This causes land values to increase. In the outskirts of the city, this means that more land will outbid the value of farmland. In the centre, it means that some buildings are no longer profitable enough for the land they sit on, so taller buildings are needed for the land to be profitable (an incentive that would be higher with land value taxes, but more on that in my article about housing prices). 
   
-  - Proof
-  
   ### Transport costs
   
   As transport costs decrease, it becomes cheaper for people in the outskirts to travel to the centre. This means that that land becomes more valuable and thus more land will outbid the value farmland. Since population is held constant, people will over time move from the centre to fill the empty spots in outskirts. 
-  
-  - Proof
   
   ### Income
   
   As people get higher income, they tend to demand more housing. When everyone wants bigger living space and with less people, more space is needed to accommodate this. Think how we went from living 5-10 people in one apartment to many living in studios today. 
   
-  - Proof
 </details>
 
 ## The mold behind urban sprawl
