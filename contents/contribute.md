@@ -1,3 +1,9 @@
+# Contribute
+
+You can contribute by supplying academic sources that are against, for or add nuance to what I write on this website. You can do so by clicking the edit button, logging in on Github, and adding text to my writing. I will take suggestions into account in some way whether it be by changing my mind about a topic or by adding a FAQ. 
+
+You can also help by [buying a poor PhD student (me) a coffee](https://www.buymeacoffee.com/victornielsen). 
+
 # Participate
 
 I am obsessed with democracy. And apart from believing in the one person one vote over one dollar one vote system, I believe that healthy democracies exist with informed voters. You cannot have informed voters without a public discourse and deep discussions. Making big decisions for society is important, and making the right decision is not possible without any questioning. 
@@ -6,11 +12,11 @@ In order to continously improve our knowledge on this topic and to have a space 
 
 You can find it it [here](https://discord.gg/RrTa9qSE).
 
-## Planned additions:
+# Ideas for additions:
 
 If you have an idea to how to carry out any of these, add them through the edit button or mention it on the Discord server. 
 
-- I plan to write more about democratic/collaborative science. Inspiration:
+- I want to write more about democratic/collaborative science. Inspiration:
   - www.pairagraph.com
   - www.kialo.com
   - www.quora.com
