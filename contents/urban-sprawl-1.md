@@ -92,6 +92,12 @@ Empirical sources
 
 [Go to solution](/?p=urban-sprawl-2#land-speculation)
 ### Zoning and land use regulations
+
+From Brueckner: A common recent approach (see, for example, Ihlanfeldt 2007) is to measure the intensity of land-use restrictions using data from a survey of local governments. The survey indicates how many types of restrictions each government has in place (whether it has a UGB, levies impact fees, and so on), and the intensity measure is a simple count of the number of restrictions. This count measure is then used as an explanatory variable in a regression in which the dependent variable is a house price measure. The regression includes a variety of other control variables. The results from this type of study typically
+Urban Sprawl and Land-Use Controls 89
+show the expected effect: house prices in a locality rise with an increase in the number of land restrictions in place.
+Taking a different approach to exploring the effects of regulation, Glaeser, Gyourko, and Saks (2005) measured the gap between the price per square foot of housing and construction cost per square foot in different communities. Noting that the two values should be equal in a competitive market, they argue that a large gap indicates the presence of government regulations that inhibit housing supply.
+
 Local and national governments have many rules on what can be built where and how. These include:
 - The use of the land (residential, commercial...)
 - The form of the property
