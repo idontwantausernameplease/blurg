@@ -17,6 +17,7 @@ You can find it it [here](https://discord.gg/RrTa9qSE).
 If you have an idea to how to carry out any of these, add them through the edit button or mention it on the Discord server. 
 
 - I want to write more about democratic/collaborative science. Inspiration:
+  - www.ground.news
   - www.pairagraph.com
   - www.kialo.com
   - www.quora.com
