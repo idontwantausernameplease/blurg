@@ -16,11 +16,13 @@ You can find it it [here](https://discord.gg/RrTa9qSE).
 
 If you have an idea to how to carry out any of these, add them through the edit button or mention it on the Discord server. 
 
-- I want to write more about democratic/collaborative science. Inspiration:
+- I want to write more about democratic/collaborative science and anti-polarization. Inspiration:
   - www.ground.news
   - www.pairagraph.com
   - www.kialo.com
   - www.quora.com
+  - [What's our problem by Tim Urban](https://waitbutwhy.com/2023/02/wop-contents.html)
+  - [The evolution of trust - Nicky Case](https://ncase.me/trust/) - an interactive blogger
   - Socratic method in search of truth
   - Street Epistemology (www.reddit.com/r/streetepistemology)
   - Cordial Curiosity (www.youtube.com/c/CordialCuriosity)
