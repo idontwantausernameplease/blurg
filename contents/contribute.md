@@ -18,6 +18,8 @@ If you have an idea to how to carry out any of these, add them through the edit 
 
 - I want to write more about democratic/collaborative science and anti-polarization. Inspiration:
   - www.ground.news
+  - What's Our Problem by Tim Urban
+  - www.ncase.me
   - www.pairagraph.com
   - www.kialo.com
   - www.quora.com
