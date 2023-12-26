@@ -23,11 +23,15 @@ If you have an idea to how to carry out any of these, add them through the edit 
   - www.pairagraph.com
   - www.kialo.com
   - www.quora.com
+  - [All that we share - TV2 Denmark](https://www.youtube.com/watch?v=jD8tjhVO1Tc) + [this one](https://www.youtube.com/watch?v=UQ15cqP-K80)
+  - [Step inside the circle - prisoners](https://www.youtube.com/watch?v=FVxjuTkWQiE)
   - [What's our problem by Tim Urban](https://waitbutwhy.com/2023/02/wop-contents.html)
   - [The evolution of trust - Nicky Case](https://ncase.me/trust/) - an interactive blogger
   - Socratic method in search of truth
+  - Participant (https://www.youtube.com/@Participant/playlists)
   - Street Epistemology (www.reddit.com/r/streetepistemology)
   - Cordial Curiosity (www.youtube.com/c/CordialCuriosity)
+  - As/Is (https://www.youtube.com/@AsIs) - some of their [older videos](https://www.youtube.com/watch?v=hD5f8GuNuGQ)
   - Jubilee (www.youtube.com/@jubilee/playlists)
    - Middle ground
    - Spectrum
