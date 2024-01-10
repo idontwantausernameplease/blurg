@@ -27,6 +27,7 @@ If you have an idea to how to carry out any of these, add them through the edit 
   - [Step inside the circle - prisoners](https://www.youtube.com/watch?v=FVxjuTkWQiE)
   - [What's our problem by Tim Urban](https://waitbutwhy.com/2023/02/wop-contents.html)
   - [The evolution of trust - Nicky Case](https://ncase.me/trust/) - an interactive blogger
+  - [What Would It Take for Generosity to Go Viral?](https://www.youtube.com/watch?v=I1ouTj1BQec)
   - Socratic method in search of truth
   - Participant (https://www.youtube.com/@Participant/playlists)
   - Street Epistemology (www.reddit.com/r/streetepistemology)
